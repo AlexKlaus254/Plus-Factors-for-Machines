@@ -1,0 +1,6 @@
+httpx>=0.27
+numpy
+pandas
+scikit-learn
+matplotlib
+tabulate

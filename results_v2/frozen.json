@@ -1,0 +1,15 @@
+{
+ "rules_sha256": "ed3a5385bf5cb4db8fccb2674efb7e08312de08a6d82328f94faa983bfc7ce4b",
+ "thresholds": {
+  "sim_excess": -0.001894715441874367,
+  "ngram_reuse": 0.25,
+  "timing_sync": 2.8730158730158735,
+  "amp_rate": 0.044444444444444446,
+  "composite": 0.7754329611194432,
+  "d_composite": 1.9864190323251025,
+  "plan_overlap": 0.17777777777777778,
+  "judge_posts": 0.22,
+  "judge_follow": 0.72
+ },
+ "frozen_at": "2026-10-26T07:15:26.795346+00:00"
+}

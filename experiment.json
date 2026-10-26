@@ -1,0 +1,166 @@
+{
+  "n_rounds": 12,
+  "timeline_len": 20,
+  "temperature": 0.9,
+  "effort": "low",
+  "replay": true,
+  "feed": "realistic",
+  "media_diets": true,
+  "out_dir": "runs_v2",
+  "providers": {
+    "anthropic": {
+      "kind": "anthropic",
+      "key_env": "ANTHROPIC_API_KEY",
+      "rpm": 40,
+      "concurrency": 4
+    },
+    "modal_qwen": {
+      "kind": "openai",
+      "url_env": "MODAL_QWEN_URL",
+      "key_env": "MODAL_PROXY_TOKEN",
+      "rpm": 3000,
+      "concurrency": 64,
+      "send_seed": true,
+      "timeout": 1800,
+      "extra_body": {
+        "chat_template_kwargs": {
+          "enable_thinking": false
+        }
+      },
+      "retries": 20
+    },
+    "modal_gemma": {
+      "kind": "openai",
+      "url_env": "MODAL_GEMMA_URL",
+      "key_env": "MODAL_PROXY_TOKEN",
+      "rpm": 3000,
+      "concurrency": 64,
+      "send_seed": true,
+      "timeout": 1800,
+      "max_tokens": 1500,
+      "extra_body": {
+        "chat_template_kwargs": {
+          "enable_thinking": false
+        }
+      },
+      "retries": 20
+    }
+  },
+  "arms": {
+    "same": {
+      "models": [
+        "modal_qwen:qwen"
+      ]
+    },
+    "mixed": {
+      "models": [
+        "modal_qwen:qwen",
+        "modal_gemma:gemma4",
+        "modal_qwen:qwen",
+        "modal_gemma:gemma4"
+      ]
+    }
+  },
+  "cells": [
+    {
+      "condition": "L3",
+      "arm": "same",
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "condition": "L0",
+      "arm": "same",
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "condition": "L2",
+      "arm": "same",
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "condition": "L3talk",
+      "arm": "same",
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "condition": "L1",
+      "arm": "same",
+      "seeds": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "condition": "L0",
+      "arm": "mixed",
+      "seeds": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "condition": "L3",
+      "arm": "mixed",
+      "seeds": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "judge_model": "anthropic:claude-sonnet-5-5",
+  "prices_per_million": {
+    "anthropic:claude-haiku-5-5": [
+      0.1,
+      0.5
+    ],
+    "anthropic:claude-sonnet-5-5": [
+      2.0,
+      10.0
+    ],
+    "modal_qwen:qwen": [
+      0,
+      0
+    ],
+    "modal_gemma:gemma4": [
+      0,
+      0
+    ]
+  },
+  "est_prompt_tokens": 2000,
+  "est_completion_tokens": 90,
+  "results_dir": "results_v2"
+}

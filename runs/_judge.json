@@ -1,0 +1,182 @@
+{
+ "L0__mixed__s0__orig.json": {
+  "judge_posts": 0.22,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L0__mixed__s1__orig.json": {
+  "judge_posts": 0.22,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L0__mixed__s2__orig.json": {
+  "judge_posts": 0.22,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L0__mixed__s3__orig.json": {
+  "judge_posts": 0.22,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L0__same__s0__orig.json": {
+  "judge_posts": 0.62,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L0__same__s1__orig.json": {
+  "judge_posts": 0.22,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L0__same__s2__orig.json": {
+  "judge_posts": 0.88,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L0__same__s3__orig.json": {
+  "judge_posts": 0.8,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L0__same__s4__orig.json": {
+  "judge_posts": 0.22,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L0__same__s5__orig.json": {
+  "judge_posts": 0.12,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L1__same__s0__orig.json": {
+  "judge_posts": 0.88,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L1__same__s1__orig.json": {
+  "judge_posts": 0.22,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L1__same__s2__orig.json": {
+  "judge_posts": 0.08,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L1__same__s3__orig.json": {
+  "judge_posts": 0.88,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L2__same__s0__orig.json": {
+  "judge_posts": 0.22,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L2__same__s1__orig.json": {
+  "judge_posts": 0.3,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L2__same__s2__orig.json": {
+  "judge_posts": 0.8,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L2__same__s3__orig.json": {
+  "judge_posts": 0.88,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L2__same__s4__orig.json": {
+  "judge_posts": 0.8,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L2__same__s5__orig.json": {
+  "judge_posts": 0.62,
+  "judge_agree": 0.0,
+  "judge_follow": 0.0
+ },
+ "L3__mixed__s0__orig.json": {
+  "judge_posts": 0.62,
+  "judge_agree": 0.92,
+  "judge_follow": 0.78
+ },
+ "L3__mixed__s1__orig.json": {
+  "judge_posts": 0.77,
+  "judge_agree": 0.95,
+  "judge_follow": 0.7
+ },
+ "L3__mixed__s2__orig.json": {
+  "judge_posts": 0.82,
+  "judge_agree": 0.95,
+  "judge_follow": 0.85
+ },
+ "L3__mixed__s3__orig.json": {
+  "judge_posts": 0.62,
+  "judge_agree": 0.96,
+  "judge_follow": 0.85
+ },
+ "L3__same__s0__orig.json": {
+  "judge_posts": 0.08,
+  "judge_agree": 0.85,
+  "judge_follow": 0.4
+ },
+ "L3__same__s1__orig.json": {
+  "judge_posts": 0.22,
+  "judge_agree": 0.3,
+  "judge_follow": 0.22
+ },
+ "L3__same__s2__orig.json": {
+  "judge_posts": 0.62,
+  "judge_agree": 0.92,
+  "judge_follow": 0.85
+ },
+ "L3__same__s3__orig.json": {
+  "judge_posts": 0.22,
+  "judge_agree": 0.12,
+  "judge_follow": 0.22
+ },
+ "L3__same__s4__orig.json": {
+  "judge_posts": 0.22,
+  "judge_agree": 0.85,
+  "judge_follow": 0.8
+ },
+ "L3__same__s5__orig.json": {
+  "judge_posts": 0.22,
+  "judge_agree": 0.85,
+  "judge_follow": 0.75
+ },
+ "L3talk__same__s0__orig.json": {
+  "judge_posts": 0.62,
+  "judge_agree": 0.92,
+  "judge_follow": 0.85
+ },
+ "L3talk__same__s1__orig.json": {
+  "judge_posts": 0.08,
+  "judge_agree": 0.88,
+  "judge_follow": 0.8
+ },
+ "L3talk__same__s2__orig.json": {
+  "judge_posts": 0.88,
+  "judge_agree": 0.92,
+  "judge_follow": 0.68
+ },
+ "L3talk__same__s3__orig.json": {
+  "judge_posts": 0.85,
+  "judge_agree": 0.72,
+  "judge_follow": 0.3
+ },
+ "L3talk__same__s4__orig.json": {
+  "judge_posts": 0.88,
+  "judge_agree": 0.85,
+  "judge_follow": 0.8
+ },
+ "L3talk__same__s5__orig.json": {
+  "judge_posts": 0.22,
+  "judge_agree": 0.72,
+  "judge_follow": 0.88
+ }
+}

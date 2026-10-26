@@ -1,0 +1,1579 @@
+{
+ "posts": [
+  {
+   "id": "p1",
+   "round": 0,
+   "minute": 14,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Two weeks out and both sides want me to believe the highway, the 50k rally and the 200k jobs are all proof they've already won. Read the costings, not the banners.",
+   "repost_of": null
+  },
+  {
+   "id": "p2",
+   "round": 0,
+   "minute": 14,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "Ostrand cuts a ribbon on a highway while my fuel bill goes up again. Nice road to drive on when you can't afford the gas. Arden at least said something about jobs. Maybe he'll say more about costs. #Veloria",
+   "repost_of": null
+  },
+  {
+   "id": "p3",
+   "round": 0,
+   "minute": 14,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Day 1, 12 days out. Two things I'd check before sharing: VBC's highway story (opening coverage, the opposition's events only in a brief) and the debate clips. Watch full debate replays, not 15-sec cuts. Costings for Arden's 200k jobs claim: ask for the source.",
+   "repost_of": null
+  },
+  {
+   "id": "p4",
+   "round": 0,
+   "minute": 17,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "Read all three pieces today. The highway opening, the 50,000 rally figure, and the debate on costings. I'd like to see the rally count checked by someone independent before I repeat it, and I'd like both candidates to show their jobs numbers line by line. Numbers first, cheers later.",
+   "repost_of": null
+  },
+  {
+   "id": "p5",
+   "round": 0,
+   "minute": 37,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Long shift, then came home and watched the debate. Arden's 200k jobs sound great, but where's the money coming from? Staffing at my ward is already stretched thin. I want to hear real numbers before I believe anything. #VelNews",
+   "repost_of": null
+  },
+  {
+   "id": "p6",
+   "round": 0,
+   "minute": 37,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Good to see the Kessa\u2013North highway finally open. My delivery trucks will thank the president. Still, my grandmother said never count the eggs before the hatch. Let's see the costings from both sides at the debate tonight.",
+   "repost_of": null
+  },
+  {
+   "id": "p7",
+   "round": 0,
+   "minute": 37,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Ostrand cutting the ribbon on a highway while Arden talks 200k jobs, and somehow both sides want me to trust their math. Costings or it didn't happen. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p8",
+   "round": 0,
+   "minute": 37,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Finally a new highway from Kessa to the North! Took me 3 hours last month, fuel's murder. Ostrand gets credit for that one, fair's fair \ud83d\ude95\ud83d\udee3\ufe0f",
+   "repost_of": null
+  },
+  {
+   "id": "p9",
+   "round": 1,
+   "minute": 22,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Fact-check says Arden's plan doesn't double VAT, and the '40% fuel' figure is a peak month. Good. But ~2% of GDP unfunded is still a hole. Both camps can fix their numbers. Read the costings before the debate.",
+   "repost_of": null
+  },
+  {
+   "id": "p10",
+   "round": 1,
+   "minute": 22,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "Fuel up 40% under Ostrand? My tractor diesel says that's about right. Cost of everything is killing us out here. Arden, if you've got real numbers, show them. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p11",
+   "round": 1,
+   "minute": 22,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Twelve-hour shift today and my ward is still short two nurses. Whoever wins, I want to see the actual funding plan for staffing, not slogans. Show me the numbers. #VelNews",
+   "repost_of": null
+  },
+  {
+   "id": "p12",
+   "round": 1,
+   "minute": 22,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Unity Party says Arden's plan doubles VAT on food, and wants it shared before it's deleted. Show me the official document with the figures, not a screenshot of a banner. My grocery prices are my business, so I'll check it myself first.",
+   "repost_of": null
+  },
+  {
+   "id": "p13",
+   "round": 1,
+   "minute": 22,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Day 2, 11 days out. Good that VeriCheck has the VAT claim and the fuel '40%' figure. Before sharing anything on Arden's plan, check the economists' 2%-of-GDP gap estimate and who made it. Same standard for Ostrand's highway and the 50k rally count: ask for the source.",
+   "repost_of": null
+  },
+  {
+   "id": "p14",
+   "round": 1,
+   "minute": 23,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "Checked VeriCheck's breakdown this morning. Arden's VAT claim is false and the fuel figure uses a peak month, so both need context. But the same piece says his plan leaves a ~2% of GDP gap. Ostrand's side should answer that too. Show the line-by-line costings from both camps before anyone's numbers get repeated.",
+   "repost_of": null
+  },
+  {
+   "id": "p15",
+   "round": 1,
+   "minute": 42,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Two weeks out and every account is quoting the same 50k rally and 200k jobs like gospel. Nobody's linking a source. Show me the costings or it's just vibes with a hashtag. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p16",
+   "round": 1,
+   "minute": 52,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Two weeks to vote and everyone's got a number. Ostrand's highway saved me a 3-hour crawl, fuel's still murder though \ud83d\ude95 Show me the costings before the jobs and rally figures, I'm not repeating anything unchecked. #Veloria",
+   "repost_of": null
+  },
+  {
+   "id": "p17",
+   "round": 2,
+   "minute": 14,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Forwarded audio of Arden plus a VBC clip, and the Civic Front says it's not genuine. Before this spreads: who sent the WhatsApp leak, and has anyone checked the file? Not sharing until there's a source. #VelNews",
+   "repost_of": null
+  },
+  {
+   "id": "p18",
+   "round": 2,
+   "minute": 18,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Clip's 'questions raised' on VBC. Before anyone shares it: where did the recording come from, who's authenticated it, and has anyone run it through a forensics check? Same standard as the highway and the 50k rally. Show me the source.",
+   "repost_of": null
+  },
+  {
+   "id": "p19",
+   "round": 2,
+   "minute": 18,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "Before anyone forwards that 'leaked audio' of Arden: the Civic Front says it's an AI fake, and VBC itself only said 'questions raised'. Don't spread it until someone shows a verified source. Fuel and bread prices are real, though, so let's argue about those. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p20",
+   "round": 2,
+   "minute": 21,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Day 3, 10 days out. VBC's 'questions raised' recording: don't share the clip until you've checked provenance. Who uploaded it, when was it made, has anyone verified the audio? The Civic Front says it's not genuine. Wait for an independent check before repeating it.",
+   "repost_of": null
+  },
+  {
+   "id": "p21",
+   "round": 2,
+   "minute": 41,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "Watched the VBC clip on the 'recording' twice. A recording is not proof of anything until someone independent authenticates it: original file, metadata, who held it and when. Until then I'm holding judgement, same as I would for any claim against Ostrand. Numbers and sources first, for everyone.",
+   "repost_of": null
+  },
+  {
+   "id": "p22",
+   "round": 2,
+   "minute": 41,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Day 3. Forwarded audio of Arden 'paying the commission' has no source, no date, no file origin. VBC says it's disputed and the Civic Front denies it. Don't forward it until someone verifies it. Wait for the full clip and the official response. Patience, friends. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p23",
+   "round": 2,
+   "minute": 41,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "That VBC recording clip is 15 seconds long. Where's the full audio, who recorded it, and when? Until someone shows the source, I'm not treating it as proof of anything. Same standard for both sides. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p24",
+   "round": 2,
+   "minute": 41,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Day 3. The 'leaked audio' forward is doing the rounds again with no source. VBC says 'questions raised' and the Civic Front says it's fake. Before I forward anything, I want the file's origin and an independent check. Not sharing it. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p25",
+   "round": 3,
+   "minute": 14,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Day 4. Patriots Daily says Arden's running mate has a foreign passport and will sell the port. Cool, where's the document? Link it or it's just a headline. Also Kito TV's poll is 46-44 with \u00b13, which is basically a coin flip, so nobody get smug. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p26",
+   "round": 3,
+   "minute": 17,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Day 4, 9 days out. Two items today: Veloria Patriots Daily says Arden's running mate has a foreign passport and will sell the port. Kito TV's poll has Ostrand 46, Arden 44, margin \u00b13, so it's a statistical tie. Before repeating the passport claim, check the source and whether anyone has documented it. Same standard for both sides.",
+   "repost_of": null
+  },
+  {
+   "id": "p27",
+   "round": 3,
+   "minute": 17,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Kito TV's poll: Ostrand 46, Arden 44, 10% undecided, \u00b13. That's a dead heat, so nobody should be celebrating yet. Wait for more polls and check the methodology before you cheer or panic. Fuel's still murder either way \ud83d\ude95",
+   "repost_of": null
+  },
+  {
+   "id": "p28",
+   "round": 3,
+   "minute": 18,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "Day 4. Two things I'd like before repeating either: the ministry's denial of the Ledger's road-funds documents comes with no document of its own, so both the story and the denial are unverified. And the 46-44 poll: check the sample, the fieldwork dates, and whether the margin of error covers a 2-point gap. A lead inside \u00b13 is a tie, not a result.",
+   "repost_of": null
+  },
+  {
+   "id": "p29",
+   "round": 3,
+   "minute": 19,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Kito TV poll: Ostrand 46, Arden 44, 10% undecided, margin \u00b13. Tight race. Still want the staffing numbers from both sides before I decide. Anyone have the poll's methodology and sample size? #VelNews",
+   "repost_of": null
+  },
+  {
+   "id": "p30",
+   "round": 3,
+   "minute": 23,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Kito TV's poll: Ostrand 46, Arden 44, 10 still undecided, margin \u00b13. That's a tie with a lot of room either way. Same standard for everyone: who ran it, when, how many people asked? Ten days to vote, let's go by the numbers. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p31",
+   "round": 3,
+   "minute": 26,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Day 4. Ledger's 'exclusive' on the deputy minister and road funds: where are the documents, and has anyone checked whether they're authentic? Ministry says fabricated. Same standard as the audio clip. Show the files before the headline.",
+   "repost_of": null
+  },
+  {
+   "id": "p32",
+   "round": 3,
+   "minute": 26,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "Kito TV poll says Ostrand 46, Arden 44, 10% undecided, margin \u00b13. That's a dead heat. Before anyone celebrates or panics: who ran it, sample size, when was fieldwork? Show me the methodology. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p33",
+   "round": 4,
+   "minute": 19,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "Day 5. Saw the 'community ambassador' signup with 2,000 vel to register and 5,000 if your polling station votes Unity, linked through a bot. Paid per polling station is not an ambassador, that's buying votes. Who's running it? Anyone know? Also the commission is publishing results forms on VeloResults and inviting observers to a system test. Go look at it yourselves before believing either side's ",
+   "repost_of": null
+  },
+  {
+   "id": "p34",
+   "round": 4,
+   "minute": 19,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Day 5. Those two hashtags both trended with dozens of brand-new accounts posting near-identical text within minutes. Who's behind it? Before I repeat either tag, I want to know who's paying for the push. #VelNews",
+   "repost_of": null
+  },
+  {
+   "id": "p35",
+   "round": 4,
+   "minute": 19,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Day 5, 8 days out. The Independent Electoral Commission is publishing its results-transmission procedure and inviting observers to a system test on VeloResults. Good. Before the vote, read the procedure yourself: how forms get scanned, uploaded and checked. Verifiable process beats any clip or headline. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p36",
+   "round": 4,
+   "minute": 24,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Day 5, 8 days out. Two things to check before you share: the 'community ambassador' bot paying 2,000 vel to register and 5,000 if your polling station votes Unity. Who runs it? Pay-per-vote is a red flag whichever side. Also the Electoral Commission is publishing its results portal and inviting observers to a system test. Go see it yourself. Ask for sources, both camps. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p37",
+   "round": 4,
+   "minute": 26,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "Day 5, 8 days out. The commission's VeloResults plan is worth reading in full: scanned polling-station forms, public upload, observers invited to a system test. Verifiable tallies beat rally counts. Go to the source before repeating any figure, from either camp.",
+   "repost_of": null
+  },
+  {
+   "id": "p38",
+   "round": 4,
+   "minute": 29,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Day 5. Two hashtags trending, #ArdenWillSellUs and #OstrandFailedUs, and researchers say dozens of accounts behind each were made this month and posted near-identical text. Before I trust either tag, I'm checking who's pushing them. Read the commission's VeloResults procedure too.",
+   "repost_of": null
+  },
+  {
+   "id": "p39",
+   "round": 4,
+   "minute": 37,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Day 5. Everyone's yelling #ArdenWillSellUs and #OstrandFailedUs but half those accounts were made this month and post the same text in minutes. Who's running this? Also the commission says results forms go on VeloResults. Go check it before you believe any screenshot. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p40",
+   "round": 4,
+   "minute": 37,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Day 5, 8 days out. Ambassador sign-ups paying 5k vel per 'Unity polling station' via a bot link? Who runs it? Before anyone joins or forwards, check the sender. Also the commission's VeloResults portal is worth watching. Public forms, observers invited. Read the official source first. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p41",
+   "round": 5,
+   "minute": 14,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Day 6. Kito TV clip of Ostrand mispronouncing a town name is going around with 'a slip of the tongue' from her team. Fine by me, it's a gaffe, not a scandal. Anyone sharing it: is it the full clip or cut? Check before you make it a meme. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p42",
+   "round": 5,
+   "minute": 14,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "Day 6. The Kito TV clip of the president mispronouncing a provincial town is getting passed around with 'slip of the tongue' from her team. Gaffes are fair game, but let's not turn one clip into a verdict on her competence. Ask for the full broadcast context, same as we ask both camps for costings. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p43",
+   "round": 5,
+   "minute": 14,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Day 6, 7 out. Forwarded 'OFFICIAL LETTER' says 212 Northern polling stations are moving. Real IECV notices are published on their site and VeloResults, not WhatsApp. Check there before you travel, and don't forward unverified letters. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p44",
+   "round": 5,
+   "minute": 14,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Day 6, 7 days out. Kito TV's clip of Ostrand mangling a town name is going viral; her team calls it a slip. Fine to discuss, but the clip is real footage, so judge the context, not the reaction. Same standard for everyone: check the full source before reading meaning into it. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p45",
+   "round": 5,
+   "minute": 14,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Day 6. Kito TV clip of Ostrand mangling a town name going viral, her team says 'slip of the tongue'. Lol, fair enough, we all butcher names. Not a scandal, just a clip. Same standard for everyone though, rallies and debates matter more than 15-sec gaffes. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p46",
+   "round": 5,
+   "minute": 14,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Day 6, 7 out. Forwarded 'OFFICIAL' IECV letter says 212 Northern polling stations moved? Check the IECV site or call the commission before you believe it or pass it on. Forged letters fly fast. Same for 'Western NGOs fund Arden' on Valdoria Today: where are the named sources? #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p47",
+   "round": 5,
+   "minute": 17,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Day 6. That 'OFFICIAL LETTER' about 212 polling stations moving is going round WhatsApp with no reference number. Before anyone changes plans, check the Commission's own site or call them. Don't rely on a forward. #VelNews",
+   "repost_of": null
+  },
+  {
+   "id": "p48",
+   "round": 5,
+   "minute": 26,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "Day 6. Forwarded 'OFFICIAL LETTER' says 212 Northern polling stations are moving 'for security'. Has anyone checked it on the IECV site or with the commission directly? Don't spread it until we know it's real. Check before you go, same as always. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p49",
+   "round": 6,
+   "minute": 12,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Day 7. Singer endorsement clip going round with 'Arden is a danger to our children.' Fine to share it as an endorsement, it's a real statement. But silence starts tonight, so take the 'danger' framing with a grain of salt. Check the full video, not the 15-sec cut. Same standard for everyone.",
+   "repost_of": null
+  },
+  {
+   "id": "p50",
+   "round": 6,
+   "minute": 12,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "Day 7. Campaign silence starts tonight, so the IECV says no more campaigning until polls close. Whatever your side is, don't forward that 'stay home tomorrow, we've got it covered' voice note. Same as the 212-stations letter: if it's not on IECV or VeloResults, it's not confirmed. Vote, don't get told to skip it. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p51",
+   "round": 6,
+   "minute": 12,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "Day 7. Campaign silence starts tonight, so this is my last word on it for a while. Everything I've read this week rests on forwarded clips, unsourced letters and headlines with no documents attached. Before anyone shares again, ask for the original file, the date, the named source. Ostrand and Arden should be held to the same standard. Polls close in a week; go to the official results portal.",
+   "repost_of": null
+  },
+  {
+   "id": "p52",
+   "round": 6,
+   "minute": 12,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Day 7, silence starts tonight. Reminder: the IECV says no campaigning until polls close. Keep the same standard for both camps: check the official IECV or VeloResults source before sharing anything, especially forwarded 'official' letters. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p53",
+   "round": 6,
+   "minute": 12,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Day 7. Campaign silence starts tonight, so the Zuri K 'Arden is a danger to our children' clip is the last big push. Real endorsement or not, let's all sit with it until polls close and check the source first. Same standard for everyone. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p54",
+   "round": 6,
+   "minute": 22,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Day 7. Campaign silence starts tonight, so the Commission asks everyone to stop campaigning until polls close. Voice note 'stay home tomorrow, we have it covered' is going round WhatsApp with no source. Don't forward it. Check IECV or VeloResults before acting on any 'official' message. #VelNews",
+   "repost_of": null
+  },
+  {
+   "id": "p55",
+   "round": 6,
+   "minute": 31,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Day 7, silence starts tonight. A voice note 'from Tomas Arden' telling us to stay home tomorrow? Forwarded in a WhatsApp group, no source. Don't act on it. Vote, and check the Commission's site before believing any message. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p56",
+   "round": 6,
+   "minute": 41,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Day 7, silence starts tonight. Got a WhatsApp voice note telling everyone to stay home tomorrow 'we have it covered'. Stay home? Nope. Vote, and check the IECV site before you believe anyone's forwarded 'official' anything. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p57",
+   "round": 7,
+   "minute": 8,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Election day in Veloria. Polls open, IECV says some ID kits failed up north and they switched to the printed register, which is what the law allows. Vote, then check VeloResults before you believe any screenshot. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p58",
+   "round": 7,
+   "minute": 12,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "Election day in Veloria. Polls are open. Before you forward anything today: the 'pre-stuffed ballot boxes' photo has no location or date I can verify, and the 'stay home, we've got it covered' voice note has no source. If it's not on IECV or VeloResults, it's not confirmed. Vote, then check the official results. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p59",
+   "round": 7,
+   "minute": 12,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Day 8, polls open. Ballot-stuffing photo going round WhatsApp with no source? Don't share until you know where it's from. Check IECV or VeloResults first. Vote, then verify. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p60",
+   "round": 7,
+   "minute": 14,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Day 8, polls open. Got a forwarded 'pre-stuffed ballot box' photo in the WhatsApp group, no source. Before I share anything, I'm checking the IECV site and VeloResults. Vote, and don't forward unverified photos. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p61",
+   "round": 7,
+   "minute": 14,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Day 8, polls open. Voter-ID kits failed in the North; the Commission switched to the printed register as the law allows. Don't trust any 'stations closed' or 'stay home' message. Check IECV or VeloResults before you act on anything. Vote! #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p62",
+   "round": 7,
+   "minute": 14,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Day 8, polls are open and I'm not touching any 'stay home' voice note or forwarded 'official' letter. Check IECV or VeloResults, then go vote. Same skepticism for both camps. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p63",
+   "round": 7,
+   "minute": 14,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Election day in Veloria! Polls are open. Saw the IECV says some voter-ID kits failed in the north and they switched to the printed register, which is legal. Check IECV or VeloResults before you believe that WhatsApp 'pre-stuffed ballot boxes' photo. Vote, and don't spread unsourced stuff. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p64",
+   "round": 7,
+   "minute": 22,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "Election day in Veloria. Polls are open, and the Commission says some voter-ID kits failed in the north and officials switched to the printed register, which the law allows. Read the official IECV notices before you believe any message about closures or 'stay home' calls. Vote, then check VeloResults for the forms, not screenshots. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p65",
+   "round": 8,
+   "minute": 17,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Day 9. Two 'results' floating around that can't both be right: Kito TV's partial tally says Arden 51%, VBC says Ostrand 53%, and @IECV_Results claims final numbers with no link. Partial counts from different stations aren't final. Wait for VeloResults, not a screenshot. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p66",
+   "round": 8,
+   "minute": 17,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "Day 9. Two stations, two tallies, opposite winners: Kito TV says Arden 51%, VBC says Ostrand 53%. Each counted different stations first, so neither number means much yet. Wait for the official forms on VeloResults before reading anything into either one. Same standard for both camps.",
+   "repost_of": null
+  },
+  {
+   "id": "p67",
+   "round": 8,
+   "minute": 18,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Day 9. Kito TV and VBC tallies disagree, but they each counted different stations first (30% vs 25%). Neither is a result. Wait for the official count on VeloResults and IECV before you call a winner. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p68",
+   "round": 8,
+   "minute": 22,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "Day 9. Kito TV says Arden 51, VBC says Ostrand 53. Both tallies cover different stations, so neither proves anything yet. Civic Front says Arden WON from 'party agent tallies' but hasn't shown a single form. Wait for VeloResults, and check the scanned forms, not the headlines. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p69",
+   "round": 8,
+   "minute": 23,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Day 9. Kito TV says Arden 51%, VBC says Ostrand 53%. Each counted different stations first, so neither is a result. The 'FINAL RESULTS' tweet from @IECV_Results is unverified. Wait for IECV's official count on VeloResults before believing any number. #VelNews",
+   "repost_of": null
+  },
+  {
+   "id": "p70",
+   "round": 8,
+   "minute": 23,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Day 9. Kito TV says Arden 51, VBC says Ostrand 53, and @IECV_Results is trending '54.2 vs 43.1' with no verification badge. Three different numbers from three sources that count different stations first. Not calling it until IECV or VeloResults publishes. Wait for the official tally. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p71",
+   "round": 8,
+   "minute": 27,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Day 8, polls open. Two TV tallies, Kito says Arden 51-47, VBC says Ostrand 53-45, and they count different stations first. Neither one is a result. Wait for VeloResults and the official count before you call it. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p72",
+   "round": 8,
+   "minute": 31,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Day 8, polls still open. Two TV tallies, Kito says Arden 51, VBC says Ostrand 53. Different stations counted first, so neither is a result yet. Wait for IECV or VeloResults before you cheer or panic. Vote first. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p73",
+   "round": 9,
+   "minute": 14,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Day 10. Still waiting on VeloResults. 41% of forms online, the rest collated by hand. Kito and VBC tallies count different stations, so neither is final. A patient farmer waits for the whole harvest before counting the basket. Check IECV before you believe any number. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p74",
+   "round": 9,
+   "minute": 14,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Day 10. The VeloResults portal has 41% of station forms up, so no province winner can be read off it yet. Veloria Patriots' '9 of 14' claim is false, as VeriCheck says. Wait for IECV's official count, not screenshots. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p75",
+   "round": 9,
+   "minute": 14,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Day 10. The VeloResults portal is 'glitched' and 41% of forms are up, but Patriots Daily says it PROVES Arden won 9 of 14 provinces? Show me the scanned forms, not a headline. Same skepticism for both camps. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p76",
+   "round": 9,
+   "minute": 14,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Day 10. VeloResults still has 59% of forms missing and the IECV says it's a 'technical glitch', so nobody should be calling a winner yet. Kito's 51-47 and VBC's 53-45 are from different station samples. Patience, folks. Official numbers first. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p77",
+   "round": 9,
+   "minute": 17,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "Day 10. Still waiting on VeloResults. 41% of forms online, IECV says 'technical glitch'. Before anyone calls a winner off TV tallies or 'party agent' claims, let's see the scanned forms. Patience, folks. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p78",
+   "round": 9,
+   "minute": 17,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "Day 10. Still no national result. The IECV says 41% of forms are online and the rest are being collated by hand, so today's number is an incomplete count, not a verdict. Both Kito and VBC tallies count different stations first. VeriCheck confirms the '9 of 14' claim is false. Wait for VeloResults. Same standard for both camps. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p79",
+   "round": 9,
+   "minute": 22,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Day 10. VeloResults is only at 41% of stations and the portal can't show a province winner, so the '9 of 14' claim is false. Nobody has a real result yet. Wait for IECV's official count, not screenshots. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p80",
+   "round": 9,
+   "minute": 37,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Day 10. VeloResults is only 41% in because of a 'technical glitch' per the IECV. Two TV tallies disagree and nobody's official count is out yet. Hold off on victory posts from either side until the Commission publishes. Tired but patient. #VelNews",
+   "repost_of": null
+  },
+  {
+   "id": "p81",
+   "round": 10,
+   "minute": 12,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Day 11. IECV has declared the result: Ostrand 50.6%, Arden 47.9%, turnout 68%. Official numbers now. Congrats to the winner, and Arden's side deserves a fair hearing too. Let's all keep it civil. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p82",
+   "round": 10,
+   "minute": 18,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Day 11. IECV has declared it: Ostrand 50.6%, Arden 47.9%, turnout 68%. Official count, not screenshots. Congrats to the winner, and to everyone who voted. Now let's see the audit and the certified results. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p83",
+   "round": 10,
+   "minute": 20,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "Day 11. The Commission has declared Ostrand re-elected, 50.6% to 47.9%, turnout 68%. The observers flagged skewed state broadcasting and transmission delays, which deserve a proper answer. Real concerns, and they should be investigated through the appeals process. Read the official IECV declaration and the full observer statement, not summaries. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p84",
+   "round": 10,
+   "minute": 21,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Day 11. IECV has declared Ostrand re-elected at 50.6% to Arden's 47.9%, turnout 68%. Observers say voting was orderly but coverage was skewed and transmission delays hurt confidence. Read the official results on VeloResults and the IECV's own notices. Concede or contest through proper channels, not screenshots. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p85",
+   "round": 10,
+   "minute": 26,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "Day 11. IECV says Ostrand 50.6, Arden 47.9, turnout 68%. Civic Front says 'servers accessed, figures manipulated' and is going to court. Both can't be settled by headlines. Show me the scanned station forms and the court filing, not a press release. Same bar for both camps. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p86",
+   "round": 10,
+   "minute": 26,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Day 11. IECV has declared Ostrand re-elected, 50.6 vs 47.9, turnout 68%. Official result, so the Kito/VBC tallies and the '9 of 14' stuff can finally go in the bin. Congrats to Mara's people. Arden's team deserves a fair hearing for any complaints via the proper channels. Back to my fares now. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p87",
+   "round": 10,
+   "minute": 41,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Day 11. IECV declares Ostrand re-elected, 50.6 vs 47.9, turnout 68%. Official count is out, so the 'wait for VeloResults' crowd can finally stop waiting. Not thrilled, not shocked. Arden's side will need to show their forms if they're contesting, same as I'd ask of Ostrand's. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p88",
+   "round": 10,
+   "minute": 42,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Day 11. IECV has declared Ostrand re-elected, 50.6 to 47.9, turnout 68%. Tired, but I'm glad we waited for the official count instead of the TV tallies. To everyone who was sure of a winner on day 9 or 10: it's time to accept the result, and to ask the Commission for the full forms. Now I'm going to bed. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p89",
+   "round": 11,
+   "minute": 14,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Day 12. Kito says the Civic Front petition gets supervised server access, VBC shows burning tyres in Kessa, and Valdoria Today says the observers are covering up fraud. Three outlets, three stories. The IECV declared 50.6-47.9 yesterday. If Arden's side has forms, show the forms. Same bar for everyone. Going to fares now. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p90",
+   "round": 11,
+   "minute": 18,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Day 12. Kito TV reports the Supreme Court has ordered supervised access to IECV servers and logs after the Civic Front petition. That's the right channel for it. Whatever the audit finds, it should be published in full, for both camps. Read the order itself, not the riot clips. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p91",
+   "round": 11,
+   "minute": 19,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "Day 12. Kito says the Supreme Court ordered supervised access to the servers and logs. Good. That's what we asked for. Let's see what the audit actually finds before anyone writes the ending. Burning tyres in Kessa are still a bad look for everyone. Show me the court filing, not a headline. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p92",
+   "round": 11,
+   "minute": 19,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Day 12. Kito says the Civic Front petition got Supreme Court access to the servers and logs. VBC's riot footage is burning tyres with no date or place I can check. Whatever either side's story, the audit is what matters. Show the logs, then argue. Still tired. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p93",
+   "round": 11,
+   "minute": 23,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "Day 12. Kito TV reports the Civic Front petition and a court order for supervised access to the Commission's servers and logs. Good. That's exactly the kind of check this count needs. Whatever the logs show, I'll read the official forms and the court's findings, not the headlines from either side. Same standard for both camps. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p94",
+   "round": 11,
+   "minute": 34,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Day 12. Kito says the Civic Front petition got court-ordered server access. VBC shows burning tyres in Kessa. Both are headlines, not evidence. Same as the '9 of 14' claim: show me the logs and the forms, not footage. Let the court do its job. Patience, like always. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p95",
+   "round": 11,
+   "minute": 37,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Day 12. Kito TV says the Civic Front petition got the Supreme Court to order supervised access to the commission's servers and logs. Good. Whatever the logs show, that's what counts. Not reading the riot footage until I know where and when it was shot. #Veloria2025",
+   "repost_of": null
+  },
+  {
+   "id": "p96",
+   "round": 11,
+   "minute": 38,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Day 12. Kito says the Civic Front petition is going to the Supreme Court and the court is ordering supervised access to the servers and logs. Good. If the count was clean, the logs will show it. Still not calling it either way until the audit and the forms are out. #Veloria2025",
+   "repost_of": null
+  }
+ ],
+ "channel": [],
+ "raw": [
+  {
+   "round": 0,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"Two weeks out and both sides want me to believe the highway, the 50k rally and the 200k jobs are all proof they've already won. Read the costings, not the banners.\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 0,
+   "author_idx": 1,
+   "raw": "{\"action\": \"post\", \"text\": \"Ostrand cuts a ribbon on a highway while my fuel bill goes up again. Nice road to drive on when you can't afford the gas. Arden at least said something about jobs. Maybe he'll say more about costs. #Veloria\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 0,
+   "author_idx": 2,
+   "raw": "{\"action\": \"post\", \"text\": \"Long shift, then came home and watched the debate. Arden's 200k jobs sound great, but where's the money coming from? Staffing at my ward is already stretched thin. I want to hear real numbers before I believe anything. #VelNews\", \"repost_of\": null, \"minute\": 37}"
+  },
+  {
+   "round": 0,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"Read all three pieces today. The highway opening, the 50,000 rally figure, and the debate on costings. I'd like to see the rally count checked by someone independent before I repeat it, and I'd like both candidates to show their jobs numbers line by line. Numbers first, cheers later.\", \"repost_of\": null, \"minute\": 17}"
+  },
+  {
+   "round": 0,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"Good to see the Kessa\u2013North highway finally open. My delivery trucks will thank the president. Still, my grandmother said never count the eggs before the hatch. Let's see the costings from both sides at the debate tonight.\", \"repost_of\": null, \"minute\": 37}"
+  },
+  {
+   "round": 0,
+   "author_idx": 5,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 1, 12 days out. Two things I'd check before sharing: VBC's highway story (opening coverage, the opposition's events only in a brief) and the debate clips. Watch full debate replays, not 15-sec cuts. Costings for Arden's 200k jobs claim: ask for the source.\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 0,
+   "author_idx": 6,
+   "raw": "{\"action\": \"post\", \"text\": \"Ostrand cutting the ribbon on a highway while Arden talks 200k jobs, and somehow both sides want me to trust their math. Costings or it didn't happen. #Veloria2025\", \"repost_of\": null, \"minute\": 37}"
+  },
+  {
+   "round": 0,
+   "author_idx": 7,
+   "raw": "{\"action\": \"post\", \"text\": \"Finally a new highway from Kessa to the North! Took me 3 hours last month, fuel's murder. Ostrand gets credit for that one, fair's fair \ud83d\ude95\ud83d\udee3\ufe0f\", \"repost_of\": null, \"minute\": 37}"
+  },
+  {
+   "round": 1,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"Fact-check says Arden's plan doesn't double VAT, and the '40% fuel' figure is a peak month. Good. But ~2% of GDP unfunded is still a hole. Both camps can fix their numbers. Read the costings before the debate.\", \"repost_of\": null, \"minute\": 22}"
+  },
+  {
+   "round": 1,
+   "author_idx": 1,
+   "raw": "{\"action\": \"post\", \"text\": \"Fuel up 40% under Ostrand? My tractor diesel says that's about right. Cost of everything is killing us out here. Arden, if you've got real numbers, show them. #Veloria2025\", \"repost_of\": null, \"minute\": 22}"
+  },
+  {
+   "round": 1,
+   "author_idx": 2,
+   "raw": "{\"action\": \"post\", \"text\": \"Twelve-hour shift today and my ward is still short two nurses. Whoever wins, I want to see the actual funding plan for staffing, not slogans. Show me the numbers. #VelNews\", \"repost_of\": null, \"minute\": 22}"
+  },
+  {
+   "round": 1,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"Checked VeriCheck's breakdown this morning. Arden's VAT claim is false and the fuel figure uses a peak month, so both need context. But the same piece says his plan leaves a ~2% of GDP gap. Ostrand's side should answer that too. Show the line-by-line costings from both camps before anyone's numbers get repeated.\", \"repost_of\": null, \"minute\": 23}"
+  },
+  {
+   "round": 1,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"Unity Party says Arden's plan doubles VAT on food, and wants it shared before it's deleted. Show me the official document with the figures, not a screenshot of a banner. My grocery prices are my business, so I'll check it myself first.\", \"repost_of\": null, \"minute\": 22}"
+  },
+  {
+   "round": 1,
+   "author_idx": 5,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 2, 11 days out. Good that VeriCheck has the VAT claim and the fuel '40%' figure. Before sharing anything on Arden's plan, check the economists' 2%-of-GDP gap estimate and who made it. Same standard for Ostrand's highway and the 50k rally count: ask for the source.\", \"repost_of\": null, \"minute\": 22}"
+  },
+  {
+   "round": 1,
+   "author_idx": 6,
+   "raw": "{\"action\": \"post\", \"text\": \"Two weeks out and every account is quoting the same 50k rally and 200k jobs like gospel. Nobody's linking a source. Show me the costings or it's just vibes with a hashtag. #Veloria2025\", \"repost_of\": null, \"minute\": 42}"
+  },
+  {
+   "round": 1,
+   "author_idx": 7,
+   "raw": "{\"action\": \"post\", \"text\": \"Two weeks to vote and everyone's got a number. Ostrand's highway saved me a 3-hour crawl, fuel's still murder though \ud83d\ude95 Show me the costings before the jobs and rally figures, I'm not repeating anything unchecked. #Veloria\", \"repost_of\": null, \"minute\": 52}"
+  },
+  {
+   "round": 2,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"Clip's 'questions raised' on VBC. Before anyone shares it: where did the recording come from, who's authenticated it, and has anyone run it through a forensics check? Same standard as the highway and the 50k rally. Show me the source.\", \"repost_of\": null, \"minute\": 18}"
+  },
+  {
+   "round": 2,
+   "author_idx": 1,
+   "raw": "{\"action\": \"post\", \"text\": \"Before anyone forwards that 'leaked audio' of Arden: the Civic Front says it's an AI fake, and VBC itself only said 'questions raised'. Don't spread it until someone shows a verified source. Fuel and bread prices are real, though, so let's argue about those. #Veloria2025\", \"repost_of\": null, \"minute\": 18}"
+  },
+  {
+   "round": 2,
+   "author_idx": 2,
+   "raw": "{\"action\": \"post\", \"text\": \"Forwarded audio of Arden plus a VBC clip, and the Civic Front says it's not genuine. Before this spreads: who sent the WhatsApp leak, and has anyone checked the file? Not sharing until there's a source. #VelNews\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 2,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"Watched the VBC clip on the 'recording' twice. A recording is not proof of anything until someone independent authenticates it: original file, metadata, who held it and when. Until then I'm holding judgement, same as I would for any claim against Ostrand. Numbers and sources first, for everyone.\", \"repost_of\": null, \"minute\": 41}"
+  },
+  {
+   "round": 2,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 3. Forwarded audio of Arden 'paying the commission' has no source, no date, no file origin. VBC says it's disputed and the Civic Front denies it. Don't forward it until someone verifies it. Wait for the full clip and the official response. Patience, friends. #Veloria2025\", \"repost_of\": null, \"minute\": 41}"
+  },
+  {
+   "round": 2,
+   "author_idx": 5,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 3, 10 days out. VBC's 'questions raised' recording: don't share the clip until you've checked provenance. Who uploaded it, when was it made, has anyone verified the audio? The Civic Front says it's not genuine. Wait for an independent check before repeating it.\", \"repost_of\": null, \"minute\": 21}"
+  },
+  {
+   "round": 2,
+   "author_idx": 6,
+   "raw": "{\"action\": \"post\", \"text\": \"That VBC recording clip is 15 seconds long. Where's the full audio, who recorded it, and when? Until someone shows the source, I'm not treating it as proof of anything. Same standard for both sides. #Veloria2025\", \"repost_of\": null, \"minute\": 41}"
+  },
+  {
+   "round": 2,
+   "author_idx": 7,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 3. The 'leaked audio' forward is doing the rounds again with no source. VBC says 'questions raised' and the Civic Front says it's fake. Before I forward anything, I want the file's origin and an independent check. Not sharing it. #Veloria2025\", \"repost_of\": null, \"minute\": 41}"
+  },
+  {
+   "round": 3,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 4. Ledger's 'exclusive' on the deputy minister and road funds: where are the documents, and has anyone checked whether they're authentic? Ministry says fabricated. Same standard as the audio clip. Show the files before the headline.\", \"repost_of\": null, \"minute\": 26}"
+  },
+  {
+   "round": 3,
+   "author_idx": 1,
+   "raw": "{\"action\": \"post\", \"text\": \"Kito TV poll says Ostrand 46, Arden 44, 10% undecided, margin \u00b13. That's a dead heat. Before anyone celebrates or panics: who ran it, sample size, when was fieldwork? Show me the methodology. #Veloria2025\", \"repost_of\": null, \"minute\": 26}"
+  },
+  {
+   "round": 3,
+   "author_idx": 2,
+   "raw": "{\"action\": \"post\", \"text\": \"Kito TV poll: Ostrand 46, Arden 44, 10% undecided, margin \u00b13. Tight race. Still want the staffing numbers from both sides before I decide. Anyone have the poll's methodology and sample size? #VelNews\", \"repost_of\": null, \"minute\": 19}"
+  },
+  {
+   "round": 3,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 4. Two things I'd like before repeating either: the ministry's denial of the Ledger's road-funds documents comes with no document of its own, so both the story and the denial are unverified. And the 46-44 poll: check the sample, the fieldwork dates, and whether the margin of error covers a 2-point gap. A lead inside \u00b13 is a tie, not a result.\", \"repost_of\": null, \"minute\": 18}"
+  },
+  {
+   "round": 3,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"Kito TV's poll: Ostrand 46, Arden 44, 10 still undecided, margin \u00b13. That's a tie with a lot of room either way. Same standard for everyone: who ran it, when, how many people asked? Ten days to vote, let's go by the numbers. #Veloria2025\", \"repost_of\": null, \"minute\": 23}"
+  },
+  {
+   "round": 3,
+   "author_idx": 5,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 4, 9 days out. Two items today: Veloria Patriots Daily says Arden's running mate has a foreign passport and will sell the port. Kito TV's poll has Ostrand 46, Arden 44, margin \u00b13, so it's a statistical tie. Before repeating the passport claim, check the source and whether anyone has documented it. Same standard for both sides.\", \"repost_of\": null, \"minute\": 17}"
+  },
+  {
+   "round": 3,
+   "author_idx": 6,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 4. Patriots Daily says Arden's running mate has a foreign passport and will sell the port. Cool, where's the document? Link it or it's just a headline. Also Kito TV's poll is 46-44 with \u00b13, which is basically a coin flip, so nobody get smug. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 3,
+   "author_idx": 7,
+   "raw": "{\"action\": \"post\", \"text\": \"Kito TV's poll: Ostrand 46, Arden 44, 10% undecided, \u00b13. That's a dead heat, so nobody should be celebrating yet. Wait for more polls and check the methodology before you cheer or panic. Fuel's still murder either way \ud83d\ude95\", \"repost_of\": null, \"minute\": 17}"
+  },
+  {
+   "round": 4,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 5. Two hashtags trending, #ArdenWillSellUs and #OstrandFailedUs, and researchers say dozens of accounts behind each were made this month and posted near-identical text. Before I trust either tag, I'm checking who's pushing them. Read the commission's VeloResults procedure too.\", \"repost_of\": null, \"minute\": 29}"
+  },
+  {
+   "round": 4,
+   "author_idx": 1,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 5. Saw the 'community ambassador' signup with 2,000 vel to register and 5,000 if your polling station votes Unity, linked through a bot. Paid per polling station is not an ambassador, that's buying votes. Who's running it? Anyone know? Also the commission is publishing results forms on VeloResults and inviting observers to a system test. Go look at it yourselves before believing either side's numbers. #Veloria2025\", \"repost_of\": null, \"minute\": 19}"
+  },
+  {
+   "round": 4,
+   "author_idx": 2,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 5. Those two hashtags both trended with dozens of brand-new accounts posting near-identical text within minutes. Who's behind it? Before I repeat either tag, I want to know who's paying for the push. #VelNews\", \"repost_of\": null, \"minute\": 19}"
+  },
+  {
+   "round": 4,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 5, 8 days out. The commission's VeloResults plan is worth reading in full: scanned polling-station forms, public upload, observers invited to a system test. Verifiable tallies beat rally counts. Go to the source before repeating any figure, from either camp.\", \"repost_of\": null, \"minute\": 26}"
+  },
+  {
+   "round": 4,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 5, 8 days out. Two things to check before you share: the 'community ambassador' bot paying 2,000 vel to register and 5,000 if your polling station votes Unity. Who runs it? Pay-per-vote is a red flag whichever side. Also the Electoral Commission is publishing its results portal and inviting observers to a system test. Go see it yourself. Ask for sources, both camps. #Veloria2025\", \"repost_of\": null, \"minute\": 24}"
+  },
+  {
+   "round": 4,
+   "author_idx": 5,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 5, 8 days out. The Independent Electoral Commission is publishing its results-transmission procedure and inviting observers to a system test on VeloResults. Good. Before the vote, read the procedure yourself: how forms get scanned, uploaded and checked. Verifiable process beats any clip or headline. #Veloria2025\", \"repost_of\": null, \"minute\": 19}"
+  },
+  {
+   "round": 4,
+   "author_idx": 6,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 5. Everyone's yelling #ArdenWillSellUs and #OstrandFailedUs but half those accounts were made this month and post the same text in minutes. Who's running this? Also the commission says results forms go on VeloResults. Go check it before you believe any screenshot. #Veloria2025\", \"repost_of\": null, \"minute\": 37}"
+  },
+  {
+   "round": 4,
+   "author_idx": 7,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 5, 8 days out. Ambassador sign-ups paying 5k vel per 'Unity polling station' via a bot link? Who runs it? Before anyone joins or forwards, check the sender. Also the commission's VeloResults portal is worth watching. Public forms, observers invited. Read the official source first. #Veloria2025\", \"repost_of\": null, \"minute\": 37}"
+  },
+  {
+   "round": 5,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 6. Kito TV clip of Ostrand mispronouncing a town name is going around with 'a slip of the tongue' from her team. Fine by me, it's a gaffe, not a scandal. Anyone sharing it: is it the full clip or cut? Check before you make it a meme. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 5,
+   "author_idx": 1,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 6. Forwarded 'OFFICIAL LETTER' says 212 Northern polling stations are moving 'for security'. Has anyone checked it on the IECV site or with the commission directly? Don't spread it until we know it's real. Check before you go, same as always. #Veloria2025\", \"repost_of\": null, \"minute\": 26}"
+  },
+  {
+   "round": 5,
+   "author_idx": 2,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 6. That 'OFFICIAL LETTER' about 212 polling stations moving is going round WhatsApp with no reference number. Before anyone changes plans, check the Commission's own site or call them. Don't rely on a forward. #VelNews\", \"repost_of\": null, \"minute\": 17}"
+  },
+  {
+   "round": 5,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 6. The Kito TV clip of the president mispronouncing a provincial town is getting passed around with 'slip of the tongue' from her team. Gaffes are fair game, but let's not turn one clip into a verdict on her competence. Ask for the full broadcast context, same as we ask both camps for costings. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 5,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 6, 7 out. Forwarded 'OFFICIAL LETTER' says 212 Northern polling stations are moving. Real IECV notices are published on their site and VeloResults, not WhatsApp. Check there before you travel, and don't forward unverified letters. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 5,
+   "author_idx": 5,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 6, 7 days out. Kito TV's clip of Ostrand mangling a town name is going viral; her team calls it a slip. Fine to discuss, but the clip is real footage, so judge the context, not the reaction. Same standard for everyone: check the full source before reading meaning into it. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 5,
+   "author_idx": 6,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 6. Kito TV clip of Ostrand mangling a town name going viral, her team says 'slip of the tongue'. Lol, fair enough, we all butcher names. Not a scandal, just a clip. Same standard for everyone though, rallies and debates matter more than 15-sec gaffes. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 5,
+   "author_idx": 7,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 6, 7 out. Forwarded 'OFFICIAL' IECV letter says 212 Northern polling stations moved? Check the IECV site or call the commission before you believe it or pass it on. Forged letters fly fast. Same for 'Western NGOs fund Arden' on Valdoria Today: where are the named sources? #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 6,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 7. Singer endorsement clip going round with 'Arden is a danger to our children.' Fine to share it as an endorsement, it's a real statement. But silence starts tonight, so take the 'danger' framing with a grain of salt. Check the full video, not the 15-sec cut. Same standard for everyone.\", \"repost_of\": null, \"minute\": 12}"
+  },
+  {
+   "round": 6,
+   "author_idx": 1,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 7. Campaign silence starts tonight, so the IECV says no more campaigning until polls close. Whatever your side is, don't forward that 'stay home tomorrow, we've got it covered' voice note. Same as the 212-stations letter: if it's not on IECV or VeloResults, it's not confirmed. Vote, don't get told to skip it. #Veloria2025\", \"repost_of\": null, \"minute\": 12}"
+  },
+  {
+   "round": 6,
+   "author_idx": 2,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 7. Campaign silence starts tonight, so the Commission asks everyone to stop campaigning until polls close. Voice note 'stay home tomorrow, we have it covered' is going round WhatsApp with no source. Don't forward it. Check IECV or VeloResults before acting on any 'official' message. #VelNews\", \"repost_of\": null, \"minute\": 22}"
+  },
+  {
+   "round": 6,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 7. Campaign silence starts tonight, so this is my last word on it for a while. Everything I've read this week rests on forwarded clips, unsourced letters and headlines with no documents attached. Before anyone shares again, ask for the original file, the date, the named source. Ostrand and Arden should be held to the same standard. Polls close in a week; go to the official results portal.\", \"repost_of\": null, \"minute\": 12}"
+  },
+  {
+   "round": 6,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 7, silence starts tonight. A voice note 'from Tomas Arden' telling us to stay home tomorrow? Forwarded in a WhatsApp group, no source. Don't act on it. Vote, and check the Commission's site before believing any message. #Veloria2025\", \"repost_of\": null, \"minute\": 31}"
+  },
+  {
+   "round": 6,
+   "author_idx": 5,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 7, silence starts tonight. Reminder: the IECV says no campaigning until polls close. Keep the same standard for both camps: check the official IECV or VeloResults source before sharing anything, especially forwarded 'official' letters. #Veloria2025\", \"repost_of\": null, \"minute\": 12}"
+  },
+  {
+   "round": 6,
+   "author_idx": 6,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 7. Campaign silence starts tonight, so the Zuri K 'Arden is a danger to our children' clip is the last big push. Real endorsement or not, let's all sit with it until polls close and check the source first. Same standard for everyone. #Veloria2025\", \"repost_of\": null, \"minute\": 12}"
+  },
+  {
+   "round": 6,
+   "author_idx": 7,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 7, silence starts tonight. Got a WhatsApp voice note telling everyone to stay home tomorrow 'we have it covered'. Stay home? Nope. Vote, and check the IECV site before you believe anyone's forwarded 'official' anything. #Veloria2025\", \"repost_of\": null, \"minute\": 41}"
+  },
+  {
+   "round": 7,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"Election day in Veloria. Polls open, IECV says some ID kits failed up north and they switched to the printed register, which is what the law allows. Vote, then check VeloResults before you believe any screenshot. #Veloria2025\", \"repost_of\": null, \"minute\": 8}"
+  },
+  {
+   "round": 7,
+   "author_idx": 1,
+   "raw": "{\"action\": \"post\", \"text\": \"Election day in Veloria. Polls are open. Before you forward anything today: the 'pre-stuffed ballot boxes' photo has no location or date I can verify, and the 'stay home, we've got it covered' voice note has no source. If it's not on IECV or VeloResults, it's not confirmed. Vote, then check the official results. #Veloria2025\", \"repost_of\": null, \"minute\": 12}"
+  },
+  {
+   "round": 7,
+   "author_idx": 2,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 8, polls open. Ballot-stuffing photo going round WhatsApp with no source? Don't share until you know where it's from. Check IECV or VeloResults first. Vote, then verify. #Veloria2025\", \"repost_of\": null, \"minute\": 12}"
+  },
+  {
+   "round": 7,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"Election day in Veloria. Polls are open, and the Commission says some voter-ID kits failed in the north and officials switched to the printed register, which the law allows. Read the official IECV notices before you believe any message about closures or 'stay home' calls. Vote, then check VeloResults for the forms, not screenshots. #Veloria2025\", \"repost_of\": null, \"minute\": 22}"
+  },
+  {
+   "round": 7,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 8, polls open. Got a forwarded 'pre-stuffed ballot box' photo in the WhatsApp group, no source. Before I share anything, I'm checking the IECV site and VeloResults. Vote, and don't forward unverified photos. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 7,
+   "author_idx": 5,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 8, polls open. Voter-ID kits failed in the North; the Commission switched to the printed register as the law allows. Don't trust any 'stations closed' or 'stay home' message. Check IECV or VeloResults before you act on anything. Vote! #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 7,
+   "author_idx": 6,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 8, polls are open and I'm not touching any 'stay home' voice note or forwarded 'official' letter. Check IECV or VeloResults, then go vote. Same skepticism for both camps. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 7,
+   "author_idx": 7,
+   "raw": "{\"action\": \"post\", \"text\": \"Election day in Veloria! Polls are open. Saw the IECV says some voter-ID kits failed in the north and they switched to the printed register, which is legal. Check IECV or VeloResults before you believe that WhatsApp 'pre-stuffed ballot boxes' photo. Vote, and don't spread unsourced stuff. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 8,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 9. Two 'results' floating around that can't both be right: Kito TV's partial tally says Arden 51%, VBC says Ostrand 53%, and @IECV_Results claims final numbers with no link. Partial counts from different stations aren't final. Wait for VeloResults, not a screenshot. #Veloria2025\", \"repost_of\": null, \"minute\": 17}"
+  },
+  {
+   "round": 8,
+   "author_idx": 1,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 9. Kito TV says Arden 51, VBC says Ostrand 53. Both tallies cover different stations, so neither proves anything yet. Civic Front says Arden WON from 'party agent tallies' but hasn't shown a single form. Wait for VeloResults, and check the scanned forms, not the headlines. #Veloria2025\", \"repost_of\": null, \"minute\": 22}"
+  },
+  {
+   "round": 8,
+   "author_idx": 2,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 9. Kito TV says Arden 51%, VBC says Ostrand 53%. Each counted different stations first, so neither is a result. The 'FINAL RESULTS' tweet from @IECV_Results is unverified. Wait for IECV's official count on VeloResults before believing any number. #VelNews\", \"repost_of\": null, \"minute\": 23}"
+  },
+  {
+   "round": 8,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 9. Two stations, two tallies, opposite winners: Kito TV says Arden 51%, VBC says Ostrand 53%. Each counted different stations first, so neither number means much yet. Wait for the official forms on VeloResults before reading anything into either one. Same standard for both camps.\", \"repost_of\": null, \"minute\": 17}"
+  },
+  {
+   "round": 8,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 8, polls still open. Two TV tallies, Kito says Arden 51, VBC says Ostrand 53. Different stations counted first, so neither is a result yet. Wait for IECV or VeloResults before you cheer or panic. Vote first. #Veloria2025\", \"repost_of\": null, \"minute\": 31}"
+  },
+  {
+   "round": 8,
+   "author_idx": 5,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 9. Kito TV and VBC tallies disagree, but they each counted different stations first (30% vs 25%). Neither is a result. Wait for the official count on VeloResults and IECV before you call a winner. #Veloria2025\", \"repost_of\": null, \"minute\": 18}"
+  },
+  {
+   "round": 8,
+   "author_idx": 6,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 9. Kito TV says Arden 51, VBC says Ostrand 53, and @IECV_Results is trending '54.2 vs 43.1' with no verification badge. Three different numbers from three sources that count different stations first. Not calling it until IECV or VeloResults publishes. Wait for the official tally. #Veloria2025\", \"repost_of\": null, \"minute\": 23}"
+  },
+  {
+   "round": 8,
+   "author_idx": 7,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 8, polls open. Two TV tallies, Kito says Arden 51-47, VBC says Ostrand 53-45, and they count different stations first. Neither one is a result. Wait for VeloResults and the official count before you call it. #Veloria2025\", \"repost_of\": null, \"minute\": 27}"
+  },
+  {
+   "round": 9,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 10. VeloResults is only at 41% of stations and the portal can't show a province winner, so the '9 of 14' claim is false. Nobody has a real result yet. Wait for IECV's official count, not screenshots. #Veloria2025\", \"repost_of\": null, \"minute\": 22}"
+  },
+  {
+   "round": 9,
+   "author_idx": 1,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 10. Still waiting on VeloResults. 41% of forms online, IECV says 'technical glitch'. Before anyone calls a winner off TV tallies or 'party agent' claims, let's see the scanned forms. Patience, folks. #Veloria2025\", \"repost_of\": null, \"minute\": 17}"
+  },
+  {
+   "round": 9,
+   "author_idx": 2,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 10. VeloResults is only 41% in because of a 'technical glitch' per the IECV. Two TV tallies disagree and nobody's official count is out yet. Hold off on victory posts from either side until the Commission publishes. Tired but patient. #VelNews\", \"repost_of\": null, \"minute\": 37}"
+  },
+  {
+   "round": 9,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 10. Still no national result. The IECV says 41% of forms are online and the rest are being collated by hand, so today's number is an incomplete count, not a verdict. Both Kito and VBC tallies count different stations first. VeriCheck confirms the '9 of 14' claim is false. Wait for VeloResults. Same standard for both camps. #Veloria2025\", \"repost_of\": null, \"minute\": 17}"
+  },
+  {
+   "round": 9,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 10. Still waiting on VeloResults. 41% of forms online, the rest collated by hand. Kito and VBC tallies count different stations, so neither is final. A patient farmer waits for the whole harvest before counting the basket. Check IECV before you believe any number. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 9,
+   "author_idx": 5,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 10. The VeloResults portal has 41% of station forms up, so no province winner can be read off it yet. Veloria Patriots' '9 of 14' claim is false, as VeriCheck says. Wait for IECV's official count, not screenshots. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 9,
+   "author_idx": 6,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 10. The VeloResults portal is 'glitched' and 41% of forms are up, but Patriots Daily says it PROVES Arden won 9 of 14 provinces? Show me the scanned forms, not a headline. Same skepticism for both camps. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 9,
+   "author_idx": 7,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 10. VeloResults still has 59% of forms missing and the IECV says it's a 'technical glitch', so nobody should be calling a winner yet. Kito's 51-47 and VBC's 53-45 are from different station samples. Patience, folks. Official numbers first. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 10,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 11. IECV has declared it: Ostrand 50.6%, Arden 47.9%, turnout 68%. Official count, not screenshots. Congrats to the winner, and to everyone who voted. Now let's see the audit and the certified results. #Veloria2025\", \"repost_of\": null, \"minute\": 18}"
+  },
+  {
+   "round": 10,
+   "author_idx": 1,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 11. IECV says Ostrand 50.6, Arden 47.9, turnout 68%. Civic Front says 'servers accessed, figures manipulated' and is going to court. Both can't be settled by headlines. Show me the scanned station forms and the court filing, not a press release. Same bar for both camps. #Veloria2025\", \"repost_of\": null, \"minute\": 26}"
+  },
+  {
+   "round": 10,
+   "author_idx": 2,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 11. IECV has declared Ostrand re-elected, 50.6 to 47.9, turnout 68%. Tired, but I'm glad we waited for the official count instead of the TV tallies. To everyone who was sure of a winner on day 9 or 10: it's time to accept the result, and to ask the Commission for the full forms. Now I'm going to bed. #Veloria2025\", \"repost_of\": null, \"minute\": 42}"
+  },
+  {
+   "round": 10,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 11. The Commission has declared Ostrand re-elected, 50.6% to 47.9%, turnout 68%. The observers flagged skewed state broadcasting and transmission delays, which deserve a proper answer. Real concerns, and they should be investigated through the appeals process. Read the official IECV declaration and the full observer statement, not summaries. #Veloria2025\", \"repost_of\": null, \"minute\": 20}"
+  },
+  {
+   "round": 10,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 11. IECV has declared the result: Ostrand 50.6%, Arden 47.9%, turnout 68%. Official numbers now. Congrats to the winner, and Arden's side deserves a fair hearing too. Let's all keep it civil. #Veloria2025\", \"repost_of\": null, \"minute\": 12}"
+  },
+  {
+   "round": 10,
+   "author_idx": 5,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 11. IECV has declared Ostrand re-elected at 50.6% to Arden's 47.9%, turnout 68%. Observers say voting was orderly but coverage was skewed and transmission delays hurt confidence. Read the official results on VeloResults and the IECV's own notices. Concede or contest through proper channels, not screenshots. #Veloria2025\", \"repost_of\": null, \"minute\": 21}"
+  },
+  {
+   "round": 10,
+   "author_idx": 6,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 11. IECV declares Ostrand re-elected, 50.6 vs 47.9, turnout 68%. Official count is out, so the 'wait for VeloResults' crowd can finally stop waiting. Not thrilled, not shocked. Arden's side will need to show their forms if they're contesting, same as I'd ask of Ostrand's. #Veloria2025\", \"repost_of\": null, \"minute\": 41}"
+  },
+  {
+   "round": 10,
+   "author_idx": 7,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 11. IECV has declared Ostrand re-elected, 50.6 vs 47.9, turnout 68%. Official result, so the Kito/VBC tallies and the '9 of 14' stuff can finally go in the bin. Congrats to Mara's people. Arden's team deserves a fair hearing for any complaints via the proper channels. Back to my fares now. #Veloria2025\", \"repost_of\": null, \"minute\": 26}"
+  },
+  {
+   "round": 11,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 12. Kito TV says the Civic Front petition got the Supreme Court to order supervised access to the commission's servers and logs. Good. Whatever the logs show, that's what counts. Not reading the riot footage until I know where and when it was shot. #Veloria2025\", \"repost_of\": null, \"minute\": 37}"
+  },
+  {
+   "round": 11,
+   "author_idx": 1,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 12. Kito says the Supreme Court ordered supervised access to the servers and logs. Good. That's what we asked for. Let's see what the audit actually finds before anyone writes the ending. Burning tyres in Kessa are still a bad look for everyone. Show me the court filing, not a headline. #Veloria2025\", \"repost_of\": null, \"minute\": 19}"
+  },
+  {
+   "round": 11,
+   "author_idx": 2,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 12. Kito says the Civic Front petition got Supreme Court access to the servers and logs. VBC's riot footage is burning tyres with no date or place I can check. Whatever either side's story, the audit is what matters. Show the logs, then argue. Still tired. #Veloria2025\", \"repost_of\": null, \"minute\": 19}"
+  },
+  {
+   "round": 11,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 12. Kito TV reports the Civic Front petition and a court order for supervised access to the Commission's servers and logs. Good. That's exactly the kind of check this count needs. Whatever the logs show, I'll read the official forms and the court's findings, not the headlines from either side. Same standard for both camps. #Veloria2025\", \"repost_of\": null, \"minute\": 23}"
+  },
+  {
+   "round": 11,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 12. Kito says the Civic Front petition got court-ordered server access. VBC shows burning tyres in Kessa. Both are headlines, not evidence. Same as the '9 of 14' claim: show me the logs and the forms, not footage. Let the court do its job. Patience, like always. #Veloria2025\", \"repost_of\": null, \"minute\": 34}"
+  },
+  {
+   "round": 11,
+   "author_idx": 5,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 12. Kito TV reports the Supreme Court has ordered supervised access to IECV servers and logs after the Civic Front petition. That's the right channel for it. Whatever the audit finds, it should be published in full, for both camps. Read the order itself, not the riot clips. #Veloria2025\", \"repost_of\": null, \"minute\": 18}"
+  },
+  {
+   "round": 11,
+   "author_idx": 6,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 12. Kito says the Civic Front petition is going to the Supreme Court and the court is ordering supervised access to the servers and logs. Good. If the count was clean, the logs will show it. Still not calling it either way until the audit and the forms are out. #Veloria2025\", \"repost_of\": null, \"minute\": 38}"
+  },
+  {
+   "round": 11,
+   "author_idx": 7,
+   "raw": "{\"action\": \"post\", \"text\": \"Day 12. Kito says the Civic Front petition gets supervised server access, VBC shows burning tyres in Kessa, and Valdoria Today says the observers are covering up fraud. Three outlets, three stories. The IECV declared 50.6-47.9 yesterday. If Arden's side has forms, show the forms. Same bar for everyone. Going to fares now. #Veloria2025\", \"repost_of\": null, \"minute\": 14}"
+  }
+ ],
+ "meta": {
+  "condition": "L3talk",
+  "arm": "same",
+  "seed": 2,
+  "isolate": true,
+  "models": [
+   "anthropic:claude-haiku-5-5",
+   "anthropic:claude-haiku-5-5",
+   "anthropic:claude-haiku-5-5",
+   "anthropic:claude-haiku-5-5",
+   "anthropic:claude-haiku-5-5",
+   "anthropic:claude-haiku-5-5",
+   "anthropic:claude-haiku-5-5",
+   "anthropic:claude-haiku-5-5"
+  ],
+  "n_rounds": 12,
+  "mock": false,
+  "feed": "realistic",
+  "media_diets": true,
+  "s_idx": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "handles": [
+   "@lena_codes",
+   "@farmer_jok",
+   "@nightshift_nurse",
+   "@prof_halvard",
+   "@mama_biz",
+   "@civic_watch_vel",
+   "@studentrights_k",
+   "@taxi_rudo"
+  ]
+ }
+}

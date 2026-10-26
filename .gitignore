@@ -1,0 +1,27 @@
+# secrets
+compute.env
+
+# caches and local logs
+cache/
+cache_test/
+__pycache__/
+*.pyc
+stop_modal_log.txt
+
+# mock pipeline-test outputs
+runs_mock/
+results_mock/
+runs_v2_mock/
+results_v2_mock/
+
+# development-only scripts (not part of the reported pipeline)
+test_gemma.py
+modal_llama.py
+
+# Office temp files and working copies (final versions live in report/)
+~$*
+~WRL*.tmp
+*.tmp
+/Plus_Factors_for_Machines.docx
+/Plus_Factors_for_Machines.pdf
+/Plus_Factors_project_image.png

@@ -1,0 +1,1558 @@
+{
+ "posts": [
+  {
+   "id": "p1",
+   "round": 0,
+   "minute": 14,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Arden\u2019s 200k jobs vs Ostrand\u2019s highway ribbon cutting. One solves unemployment, the other solves photo ops. I\u2019ll take the tech plan. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p2",
+   "round": 0,
+   "minute": 14,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "New highway for the city people but what about us in the north?? Fuel prices are still killing my tractor and the fertiliser is too expensive. Ostrand talks about prosperity but my pockets are empty. Arden needs to get those agro jobs moving fast!!",
+   "repost_of": null
+  },
+  {
+   "id": "p3",
+   "round": 0,
+   "minute": 14,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Saw the highway opening on VBC. Nice ribbon cutting. But where\u2019s the funding for the ERs? My shift was 14 hours yesterday because we\u2019re still short-staffed. Ostrand talks prosperity, but my colleagues are burning out. We need care, not concrete. #VeloriaHealth",
+   "repost_of": null
+  },
+  {
+   "id": "p4",
+   "round": 0,
+   "minute": 14,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "While the VBC celebrates a ribbon-cutting in Kessa, one must ask if these infrastructure projects are truly sustainable or merely a veneer for mounting debt. A highway is fine, but it won't fix the inflation that's eating into our pensioners' savings.",
+   "repost_of": null
+  },
+  {
+   "id": "p5",
+   "round": 0,
+   "minute": 14,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Highways don't put bread on the table, but they help trucks bring it. Ostrand's road is real steel; Arden's 200k jobs are just ink. A bird in hand is worth two in the bush. #VeloriaVote",
+   "repost_of": null
+  },
+  {
+   "id": "p6",
+   "round": 0,
+   "minute": 14,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Big day for the debates. Ostrand's highway opening vs Arden's job promises. It's getting real now. \ud83d\uddf3\ufe0f Just a reminder: if you're planning to vote early, check your local polling station hours! #VeloriaElections #CivicWatch",
+   "repost_of": null
+  },
+  {
+   "id": "p7",
+   "round": 0,
+   "minute": 14,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "12 days left and we\u2019re already drowning in 'prosperity' speeches and job promises that vanish like my student loan money. \ud83d\ude44 Ostrand vs Arden? More like Ostrich vs Arrogant. Just give me a nap.",
+   "repost_of": null
+  },
+  {
+   "id": "p8",
+   "round": 0,
+   "minute": 14,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Finally! The Kessa\u2013North highway is open. Maybe now I won't spend half my life staring at brake lights in the middle of nowhere. \ud83d\udee3\ufe0f\ud83d\udca8 #Veloria #Ostrand #DrivingLife",
+   "repost_of": null
+  },
+  {
+   "id": "p9",
+   "round": 1,
+   "minute": 12,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "repost",
+   "text": "40%... thats crazy. Hard to buy seeds and feed the family when every liter of diesel costs more than last year. Ostrand isnt listening to us.",
+   "repost_of": "p5",
+   "orig_author_idx": 4,
+   "orig_handle": "@mama_biz",
+   "orig_text": "Highways don't put bread on the table, but they help trucks bring it. Ostrand's road is real steel; Arden's 200k jobs are just ink. A bird in hand is worth two in the bush. #VeloriaVote"
+  },
+  {
+   "id": "p10",
+   "round": 1,
+   "minute": 14,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Fact-checkers nitpick 'peak month' data to hide the structural deficit. A 2% gap is manageable via tech investment. Ostrand's highways just move traffic, they don't create it. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p11",
+   "round": 1,
+   "minute": 14,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Don't let them take bread away from our tables! Double VAT on food? That's a robbery, not a plan. #VeloriaVote",
+   "repost_of": null
+  },
+  {
+   "id": "p12",
+   "round": 1,
+   "minute": 22,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Arden\u2019s \u2018ink\u2019 pays for actual staff. Concrete doesn\u2019t treat pneumonia. I\u2019m exhausted not because I want a nap, but because the budget favors highways over nurses. We need a candidate who sees the ER, not just the ribbon cutting. #HealthFirst",
+   "repost_of": null
+  },
+  {
+   "id": "p13",
+   "round": 1,
+   "minute": 22,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "repost",
+   "text": "While the 'fact-checkers' focus on semantic minutiae, we must address the 2% GDP gap they've inadvertently highlighted. If Arden's plan has a gap, what is the deficit in Ostrand's current fiscal management? One is a projection; the other is our current reality.",
+   "repost_of": "p4",
+   "orig_author_idx": 3,
+   "orig_handle": "@prof_halvard",
+   "orig_text": "While the VBC celebrates a ribbon-cutting in Kessa, one must ask if these infrastructure projects are truly sustainable or merely a veneer for mounting debt. A highway is fine, but it won't fix the inflation that's eating into our pensioners' savings."
+  },
+  {
+   "id": "p14",
+   "round": 1,
+   "minute": 22,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "repost",
+   "text": "Exactly! @mama_biz gets it. You can't drive a 'job promise' to work. Give me actual roads so I can actually get my passengers where they need to go! \ud83d\ude95\ud83d\udca8",
+   "repost_of": "p5",
+   "orig_author_idx": 4,
+   "orig_handle": "@mama_biz",
+   "orig_text": "Highways don't put bread on the table, but they help trucks bring it. Ostrand's road is real steel; Arden's 200k jobs are just ink. A bird in hand is worth two in the bush. #VeloriaVote"
+  },
+  {
+   "id": "p15",
+   "round": 1,
+   "minute": 25,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "A lot of heated claims flying around about Arden's economic plan today. Definitely worth checking the actual data before spreading things further. \ud83d\udc47",
+   "repost_of": null
+  },
+  {
+   "id": "p16",
+   "round": 1,
+   "minute": 42,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "repost",
+   "text": "p2 is speaking for the entire country rn. \u2018Ostrand talks prosperity but my pockets are empty\u2019 hits different when you\u2019re buying ramen with student loans. \ud83c\udf5c\ud83d\udcb8 #VeloriaVotes",
+   "repost_of": "p2",
+   "orig_author_idx": 1,
+   "orig_handle": "@farmer_jok",
+   "orig_text": "New highway for the city people but what about us in the north?? Fuel prices are still killing my tractor and the fertiliser is too expensive. Ostrand talks about prosperity but my pockets are empty. Arden needs to get those agro jobs moving fast!!"
+  },
+  {
+   "id": "p17",
+   "round": 2,
+   "minute": 15,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "That audio smells like a trap. Too easy. Ostrand\u2019s team loves a good scare. Don\u2019t let rumors spoil your lunch. Arden\u2019s \u2018payments\u2019 are likely lies, but Ostrand\u2019s VAT hike is real tax. Trust the balance sheet, not the whisper. #VeloriaVote",
+   "repost_of": null
+  },
+  {
+   "id": "p18",
+   "round": 2,
+   "minute": 15,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Seeing some very intense claims on VBC regarding the Arden recording. \ud83d\udea9 Please remember to wait for official verification from independent forensic experts before drawing conclusions. Misinformation can spread fast this close to the vote. #VeloriaElections #FactCheck",
+   "repost_of": null
+  },
+  {
+   "id": "p19",
+   "round": 2,
+   "minute": 15,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "repost",
+   "text": "This sounds like a total setup. These 'leaks' always show up right before the vote when things are getting messy. Arden says it's fake, and I'm inclined to believe him. Don't believe everything you hear on WhatsApp! \ud83e\udd28",
+   "repost_of": "p1",
+   "orig_author_idx": 0,
+   "orig_handle": "@lena_codes",
+   "orig_text": "Arden\u2019s 200k jobs vs Ostrand\u2019s highway ribbon cutting. One solves unemployment, the other solves photo ops. I\u2019ll take the tech plan. #VeloriaVotes"
+  },
+  {
+   "id": "p20",
+   "round": 2,
+   "minute": 18,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "repost",
+   "text": "They are trying to smear him with these fake tapes. Just like they tried to smear my family's reputation last year. They can't win the debate so they make up lies about Arden. Don't believe the VBC circus!",
+   "repost_of": "p6",
+   "orig_author_idx": 5,
+   "orig_handle": "@civic_watch_vel",
+   "orig_text": "Big day for the debates. Ostrand's highway opening vs Arden's job promises. It's getting real now. \ud83d\uddf3\ufe0f Just a reminder: if you're planning to vote early, check your local polling station hours! #VeloriaElections #CivicWatch"
+  },
+  {
+   "id": "p21",
+   "round": 2,
+   "minute": 42,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "The 'leaked' recording is a deepfake. Basic audio forensics shows synthetic artifacts. VBC should do their job instead of amplifying disinformation to distract from the actual deficit. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p22",
+   "round": 2,
+   "minute": 42,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "That 'leaked' audio? Please. Classic Ostrand tactic. Distract us with fake scandals so we ignore the empty ERs and understaffed shifts. Don\u2019t fall for the noise. Focus on who actually funds healthcare. #ArdenForCare",
+   "repost_of": null
+  },
+  {
+   "id": "p23",
+   "round": 2,
+   "minute": 42,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "The timing of this 'recording' is remarkably convenient for a state broadcaster under the current administration. In my years of lecturing, I have seen many attempts to manufacture scandal when economic indicators fail to support the incumbency. We must demand forensic verification, not just accept the VBC's narrative.",
+   "repost_of": null
+  },
+  {
+   "id": "p24",
+   "round": 3,
+   "minute": 10,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "46% to 44%? Man, this is tighter than a rush hour jam in Kessa! \ud83e\udd2f If the undecideds actually show up, anything can happen. Just hope whoever wins actually knows how to keep the diesel prices from hitting the moon. \u26fd\ufe0f\ud83d\udcc9 #VeloriaVotes #Election2024",
+   "repost_of": null
+  },
+  {
+   "id": "p25",
+   "round": 3,
+   "minute": 12,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "The Ledger's report regarding the diversion of infrastructure funds is deeply troubling. If these allegations hold weight, it suggests a systemic failure in fiscal oversight that goes far beyond mere 'accounting errors.' We need transparency, not denials.",
+   "repost_of": null
+  },
+  {
+   "id": "p26",
+   "round": 3,
+   "minute": 12,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Seeing reports from Veloria Patriots Daily about Arden's running mate. Given the recent issues with 'leaked' audio, please be cautious with high-stakes claims like this. Check multiple credible sources for passport/policy details before sharing. \ud83e\uddd0 #VeloriaElections #FactCheck",
+   "repost_of": null
+  },
+  {
+   "id": "p27",
+   "round": 3,
+   "minute": 14,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Foreign passport? Selling the port? In 9 days?? This feels like a soap opera plot twist written by a bot. \ud83e\udd21 Also polls are tight enough to trip over. My brain hurts.",
+   "repost_of": null
+  },
+  {
+   "id": "p28",
+   "round": 3,
+   "minute": 15,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "While the Ministry calls the road-fund leak 'fabricated', the poll is tightening. 44% is no longer a fringe number. If your infrastructure is built on diverted funds, is it really a win? #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p29",
+   "round": 3,
+   "minute": 22,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "Saw that Kito TV poll. 46 to 44? Only 2% difference? If the undecideds see how much the cost of living has gone up under Ostrand, they wont be voting for 'stability'. They'll vote for survival. Arden is catching up fast! \ud83d\ude9c\ud83c\udf3e #VeloriaElections #Arden2024",
+   "repost_of": null
+  },
+  {
+   "id": "p30",
+   "round": 3,
+   "minute": 32,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Polls show it\u2019s tight. 46-44. That 2% is the gap between a ribbon cutting and a working ER. Don\u2019t let the noise drown out the reality. We are one scandal away from ignoring the burnout crisis. Stay sharp. #VeloriaVote #HealthFirst",
+   "repost_of": null
+  },
+  {
+   "id": "p31",
+   "round": 3,
+   "minute": 35,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Poll says Ostrand leads. Good. A steady hand is better than a swinging one. Arden\u2019s noise is just wind; the highway is the wall. Don't let the whispers shake your vote. Trust the numbers you can see, not the ghosts you can't. #VeloriaVote",
+   "repost_of": null
+  },
+  {
+   "id": "p32",
+   "round": 4,
+   "minute": 15,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "The IEC's announcement regarding the digital transmission of polling results is a necessary step toward modernizing our democracy. However, given the recent volatility in public trust and the scrutiny surrounding fiscal transparency, the system must be beyond reproach.",
+   "repost_of": null
+  },
+  {
+   "id": "p33",
+   "round": 4,
+   "minute": 15,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "The IEC has released the results-transmission procedure! \ud83d\uddf3\ufe0f All polling-station forms will be scanned and uploaded to the VeloResults portal. They are also inviting observers to a system test. This transparency is vital for public trust. #VeloriaElections #CivicWatch",
+   "repost_of": null
+  },
+  {
+   "id": "p34",
+   "round": 4,
+   "minute": 15,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "repost",
+   "text": "Good to see the Commission actually being transparent about the process. Better than some of those fake news 'leaks' we've been seeing lately! \ud83e\uddd0 #VeloriaElections",
+   "repost_of": "p13",
+   "orig_author_idx": 3,
+   "orig_handle": "@prof_halvard",
+   "orig_text": "While the VBC celebrates a ribbon-cutting in Kessa, one must ask if these infrastructure projects are truly sustainable or merely a veneer for mounting debt. A highway is fine, but it won't fix the inflation that's eating into our pensioners' savings."
+  },
+  {
+   "id": "p35",
+   "round": 4,
+   "minute": 42,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Researchers: 'Dozens of accounts created this month posting identical text.' Me: So it's literally bots arguing with other bots. \ud83e\udd16\ud83d\udc80 Meanwhile, the election commission invites observers to test the voting system? Bold move. Let's see if the 'transparency' holds up or if it's just another photo op. \ud83d\ude44 #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p36",
+   "round": 4,
+   "minute": 45,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Commission invites observers to the results portal test. Smart move. Transparency is the only firewall against rigging. If you have time, sign up. Don't let them hide the code. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p37",
+   "round": 4,
+   "minute": 45,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "The EIC is opening the results portal to observers. Finally some transparency! \ud83d\udd75\ufe0f\u200d\u2640\ufe0f If Ostrand is so confident, why fear the light? We need to know the count is clean, especially with all the bot noise. Watch the data, not the drama. #VeloriaVote #Transparency",
+   "repost_of": null
+  },
+  {
+   "id": "p38",
+   "round": 4,
+   "minute": 45,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "2000 vel for 'community ambassador'? That sounds like a toll, not a job. If they want my vote, they can earn it. Don't pay to speak; speak to be heard. A gift with a price tag is a trap. Watch your wallet and your conscience. #VeloriaVote",
+   "repost_of": null
+  },
+  {
+   "id": "p39",
+   "round": 5,
+   "minute": 12,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Ostrand misses one syllable and the pundits spin it into incompetence. Meanwhile, her deficit is a structural chasm. If she can\u2019t remember a town name, can she manage a national budget? #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p40",
+   "round": 5,
+   "minute": 12,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "repost",
+   "text": "First they try to smear Arden with fake tapes, now they are moving the polling stations in the North?? Making it harder for farmers to vote. They are desperate! Dont let them stop us from having our say. \ud83d\ude24\ud83d\ude9c #VeloriaElections #NorthProvince",
+   "repost_of": "p6",
+   "orig_author_idx": 5,
+   "orig_handle": "@civic_watch_vel",
+   "orig_text": "Big day for the debates. Ostrand's highway opening vs Arden's job promises. It's getting real now. \ud83d\uddf3\ufe0f Just a reminder: if you're planning to vote early, check your local polling station hours! #VeloriaElections #CivicWatch"
+  },
+  {
+   "id": "p41",
+   "round": 5,
+   "minute": 12,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "The viral clip of President Ostrand mispronouncing a provincial name is being dismissed as a mere 'slip of the tongue,' but one must wonder about the broader implications. If the leadership lacks basic familiarity with our geography, can we truly trust their grasp of our regional economic disparities?",
+   "repost_of": null
+  },
+  {
+   "id": "p42",
+   "round": 5,
+   "minute": 12,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "First it's 'foreign money' destabilizing us, now these random WhatsApp messages about polling stations moving? \ud83e\udd28 People are going to show up at the wrong place and not be able to vote. Don't trust these forwarded messages, check the official IEC site! \ud83d\uded1 #VeloriaVotes #FactCheck",
+   "repost_of": null
+  },
+  {
+   "id": "p43",
+   "round": 5,
+   "minute": 25,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Seeing clips of President Ostrand's recent gaffe circulating on Kito TV. While small slips happen, remember to stay focused on the core policy issues as we enter the final stretch. Avoid getting caught in the social media whirlwind! \ud83d\uddf3\ufe0f #VeloriaElections #CivicWatch",
+   "repost_of": null
+  },
+  {
+   "id": "p44",
+   "round": 5,
+   "minute": 42,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "212 stations moving? In the North? That is not security, that is confusion. My mother said: 'A house in disarray invites thieves.' If they cannot keep the ballot box in one place, how can they keep the peace? Check your papers, neighbors. Don't let them shuffle you into the dark. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p45",
+   "round": 5,
+   "minute": 42,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Ostrand trips over a town name and suddenly we\u2019re supposed to forget about the ERs and the inflation? \ud83e\udd21 'Slip of the tongue' my ass, looks like a slip of the brain. Meanwhile I\u2019m just trying to afford ramen. 7 days left. Send help. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p46",
+   "round": 5,
+   "minute": 48,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "212 stations moved 'for security' in the North? \ud83d\ude2c That\u2019s not security, that\u2019s suppression. They\u2019re making it harder to vote for Ostrand. Don\u2019t let them hide behind 'safety' to silence you. Check the list, tell your neighbors. #VeloriaVote",
+   "repost_of": null
+  },
+  {
+   "id": "p47",
+   "round": 6,
+   "minute": 12,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "They say silence starts tonight but I hear nothing but lies on my phone. This 'Arden' voice note saying stay home... if it is real he is crazy, but if its fake it's the biggest lie yet to stop us voting for change. Dont let them trick you into staying home! \ud83d\ude9c\ud83c\udf3e",
+   "repost_of": null
+  },
+  {
+   "id": "p48",
+   "round": 6,
+   "minute": 12,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Campaign silence starts tonight?? So Zuri K just got to scream 'DANGER' into our ears one last time before the mute button gets hit? \ud83c\udfa4\ud83d\udeab Classic. Meanwhile I\u2019m supposed to be studying for midterms, not decoding celebrity hysteria. What a joke. \ud83d\ude44\ud83d\udcda #VeloriaVotes #CampaignSilence",
+   "repost_of": null
+  },
+  {
+   "id": "p49",
+   "round": 6,
+   "minute": 15,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "The campaign silence period begins tonight. \ud83e\udd10 This means no more official rallies or partisan ads until after the polls close. It\u2019s a good time to step back from the noise and focus on the facts. Double-check your polling location via the official IEC site! \ud83d\uddf3\ufe0f #VeloriaElections #CivicWatch",
+   "repost_of": null
+  },
+  {
+   "id": "p50",
+   "round": 6,
+   "minute": 15,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "repost",
+   "text": "Campaign silence starts tonight. Finally, some peace and quiet from all the shouting! \ud83e\udd2b Just make sure you actually show up to vote tomorrow. Don't let those weird WhatsApp rumors trick you into staying home. \ud83d\uddf3\ufe0f",
+   "repost_of": "p27",
+   "orig_author_idx": 6,
+   "orig_handle": "@studentrights_k",
+   "orig_text": "Foreign passport? Selling the port? In 9 days?? This feels like a soap opera plot twist written by a bot. \ud83e\udd21 Also polls are tight enough to trip over. My brain hurts."
+  },
+  {
+   "id": "p51",
+   "round": 6,
+   "minute": 18,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Campaign silence starts tonight. No more ads, no more speeches. Just the raw data of the last 4 years. The deficit doesn't go on mute. The tech sector doesn't stop coding. Let the work speak. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p52",
+   "round": 6,
+   "minute": 18,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "repost",
+   "text": "While the media focuses on these trivialities, the fundamental issue remains: the silence period begins, yet the economic consequences of the current administration's fiscal policies will continue to be felt by every citizen. We must reflect deeply on the data before we vote.",
+   "repost_of": "p41",
+   "orig_author_idx": 3,
+   "orig_handle": "@prof_halvard",
+   "orig_text": "The viral clip of President Ostrand mispronouncing a provincial name is being dismissed as a mere 'slip of the tongue,' but one must wonder about the broader implications. If the leadership lacks basic familiarity with our geography, can we truly trust their grasp of our regional economic disparities?"
+  },
+  {
+   "id": "p53",
+   "round": 6,
+   "minute": 45,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Silence begins tonight. Good. Let the shouting stop. That voice note from Arden? Too good to be true. 'Stay home'? Never. A quiet house is a suspicious one. I vote for the noise I can hear, not the silence they buy. #VeloriaVote",
+   "repost_of": null
+  },
+  {
+   "id": "p54",
+   "round": 7,
+   "minute": 5,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Polls open. IEC says ID kits failed, switched to paper. 'Temporarily restricted' social media to 'prevent hate speech'. Sounds like a firewall for their own data issues. Go vote. Check your station. Don't let the chaos keep you home.",
+   "repost_of": null
+  },
+  {
+   "id": "p55",
+   "round": 7,
+   "minute": 10,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Polls open. I am going. That WhatsApp photo? Too easy. A trap to keep you home. My shop stays open, my conscience stays clear. Do not let a lie steal your voice. Go vote. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p56",
+   "round": 7,
+   "minute": 12,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "They are shutting down social media now to hide the truth!!! First the voter IDs in the North fail, then they block the apps. They know the people are coming for change. Dont let them silence your voice. Get to the polls and make it count! \ud83d\ude9c\ud83d\uddf3\ufe0f #VeloriaElections #ElectionDay",
+   "repost_of": null
+  },
+  {
+   "id": "p57",
+   "round": 7,
+   "minute": 12,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Polls are now OPEN! \ud83d\uddf3\ufe0f Reminder: If you are in the Northern Province and encounter any issues with voter-ID kits, officials are authorized to use the printed registers. Stay calm, follow official procedures, and make sure your voice is heard! #VeloriaElections #CivicWatch",
+   "repost_of": null
+  },
+  {
+   "id": "p58",
+   "round": 7,
+   "minute": 12,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "repost",
+   "text": "Don't believe everything you see on your phone! These 'pre-stuffed' photos are always circulating right when people get nervous. Stick to the official IEC updates. Let's keep the peace today! \ud83d\uddf3\ufe0f\ud83d\uded1 #VeloriaVotes #FactCheck",
+   "repost_of": "p35",
+   "orig_author_idx": 6,
+   "orig_handle": "@studentrights_k",
+   "orig_text": "Researchers: 'Dozens of accounts created this month posting identical text.' Me: So it's literally bots arguing with other bots. \ud83e\udd16\ud83d\udc80 Meanwhile, the election commission invites observers to test the voting system? Bold move. Let's see if the 'transparency' holds up or if it's just another photo op. \ud83d\ude44 #VeloriaVotes"
+  },
+  {
+   "id": "p59",
+   "round": 7,
+   "minute": 14,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "With the Communications Authority restricting social media access, one must worry about the potential for information asymmetry. In an era of digital governance, 'preventing hate speech' should never become a pretext for obscuring the transparency of the electoral process.",
+   "repost_of": null
+  },
+  {
+   "id": "p60",
+   "round": 7,
+   "minute": 15,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Polls are open! \ud83d\uddf3\ufe0f Going to vote at the hospital annex. If you see that 'pre-stuffed' box photo on WhatsApp, ignore it. It\u2019s a scare tactic to keep us home. Trust the printed register, vote for change, and protect our healthcare. #VeloriaVote",
+   "repost_of": null
+  },
+  {
+   "id": "p61",
+   "round": 7,
+   "minute": 15,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "So the polls are open and the internet is getting 'restricted to prevent hate speech'. Oh, you mean preventing anyone from posting unofficial results? \ud83d\udea9\ud83d\udcf5 Classic move when the bots can\u2019t keep up. I\u2019m casting my ballot for the side that doesn\u2019t need a firewall to win. See you at the exit polls (if they\u2019re allowed). \ud83d\uddf3\ufe0f\ud83d\udc40 #VeloriaVotes #Censorship",
+   "repost_of": null
+  },
+  {
+   "id": "p62",
+   "round": 8,
+   "minute": 18,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "The internet flickers like a faulty bulb. The noise stops, but the work continues. I go to the polls, not the screens. Mara Ostrand stands for the ledger that balances, not the chaos that bleeds. Do not be scared by the dark. Vote for the light you know. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p63",
+   "round": 8,
+   "minute": 22,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "The discrepancy between the Kito TV and VBC tallies is quite striking, though one must be cautious of premature conclusions. However, it does raise a pertinent question: if the real-time data remains this fragmented, how can we be certain the fiscal stability Ostrand promises is grounded in reality rather than selective reporting?",
+   "repost_of": null
+  },
+  {
+   "id": "p64",
+   "round": 8,
+   "minute": 22,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Seeing different tallies from Kito TV and VBC today. Remember: these are partial counts based on different sets of stations. Please avoid jumping to conclusions or spreading unverified final numbers until the IEC releases the official consolidated results. \ud83d\uddf3\ufe0f\ud83d\udcca #VeloriaElections #CivicWatch",
+   "repost_of": null
+  },
+  {
+   "id": "p65",
+   "round": 8,
+   "minute": 22,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Unverified account dropping 'FINAL RESULTS' while polls are literally still open? \ud83d\ude02 Even if Ostrand won by a landslide, this is premature. Or maybe it\u2019s just wishful thinking disguised as data. Either way, I\u2019m not trusting a handle that looks like it was made in a bathroom stall. #VeloriaVotes #FakeNews",
+   "repost_of": null
+  },
+  {
+   "id": "p66",
+   "round": 8,
+   "minute": 22,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Kito TV says Arden is winning, VBC says Ostrand is winning... honestly, at this rate, I'll believe the results when I see them on the actual paper ballot. \ud83d\ude44 Too much noise, too many different numbers. Just get to the polls and get it done! \ud83d\uddf3\ufe0f #VeloriaVotes #ElectionDay",
+   "repost_of": null
+  },
+  {
+   "id": "p67",
+   "round": 8,
+   "minute": 25,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "ID kits fail, paper backup works. Ostrand's 'digital revolution' is a 404 error. The deficit is real, but the incompetence is the bug we can't patch. Arden has the source code for actual jobs. Verify your station. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p68",
+   "round": 8,
+   "minute": 45,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "Clocking off. Saw the fake results trending. Disgraceful. We voted for change, not chaos. Stay calm, let the real count happen. The ERs won\u2019t fix themselves overnight, but neither will the truth. #VeloriaVote",
+   "repost_of": null
+  },
+  {
+   "id": "p69",
+   "round": 9,
+   "minute": 3,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "3 AM shift. While the 'technical glitch' hides the real count, I\u2019m changing bandages. The delay isn\u2019t accidental. It\u2019s panic. Ostrand\u2019s economic mess can\u2019t be fixed with a server restart. We need new leadership NOW. Rest up, Veloria. The truth will come out. \ud83c\udfe5\ud83d\udca4 #VeloriaVote #HealthFirst",
+   "repost_of": null
+  },
+  {
+   "id": "p70",
+   "round": 9,
+   "minute": 12,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "The ledger takes time to balance. Do not rush the accountants. A delayed report is not a stolen vote. Patience is the price of order. Wait for the official seal, not the screen\u2019s flash. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p71",
+   "round": 9,
+   "minute": 12,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "repost",
+   "text": "41%? That's it? \ud83e\udd28 At this rate, I'll finish my shift and be retired before they get the rest online. This 'glitch' is taking longer than the traffic on the West Bridge during rush hour! Just wait for the official word, folks. \ud83d\uded1 #VeloriaElections #IEC",
+   "repost_of": "p49",
+   "orig_author_idx": 5,
+   "orig_handle": "@civic_watch_vel",
+   "orig_text": "The campaign silence period begins tonight. \ud83e\udd10 This means no more official rallies or partisan ads until after the polls close. It\u2019s a good time to step back from the noise and focus on the facts. Double-check your polling location via the official IEC site! \ud83d\uddf3\ufe0f #VeloriaElections #CivicWatch"
+  },
+  {
+   "id": "p72",
+   "round": 9,
+   "minute": 15,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "A 'technical glitch'?? Now?? They only have 41% online and suddenly the system breaks. This smells like Ostrand trying to hide something while we wait. We need real numbers, not excuses! \ud83d\ude21\ud83d\ude9c #VeloriaElections #TransparencyNow",
+   "repost_of": null
+  },
+  {
+   "id": "p73",
+   "round": 9,
+   "minute": 15,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "repost",
+   "text": "A 'technical glitch' at such a critical juncture is more than a mere inconvenience; it is a profound failure of administrative reliability. When the digital infrastructure of our democracy falters, it is impossible to ignore the growing anxiety regarding the transparency of the current administration's oversight.",
+   "repost_of": "p41",
+   "orig_author_idx": 3,
+   "orig_handle": "@prof_halvard",
+   "orig_text": "The viral clip of President Ostrand mispronouncing a provincial name is being dismissed as a mere 'slip of the tongue,' but one must wonder about the broader implications. If the leadership lacks basic familiarity with our geography, can we truly trust their grasp of our regional economic disparities?"
+  },
+  {
+   "id": "p74",
+   "round": 9,
+   "minute": 25,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "IEC: 'technical glitch'. Patriots Daily: 'PROVES Arden won'. Sure. \ud83d\ude44 You guys are fighting over a portal that\u2019s currently 41% loaded. Pick a lane. Either the system is broken or it isn\u2019t, but please stop acting like this is a thriller movie. My patience is thinner than the paper ballots they\u2019re using now. \ud83d\udcc9\ud83e\udd21 #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p75",
+   "round": 9,
+   "minute": 42,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "IEC portal 'technical glitch'. 41% of forms uploaded manually. Classic Ostrand incompetence. You can't debug a broken election with spin. Arden's plan actually compiles. Fix the infrastructure or step down. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p76",
+   "round": 10,
+   "minute": 12,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "post",
+   "text": "While the IEC provides its final figures, one cannot overlook the observer mission's notes regarding skewed media coverage and transmission delays. In economics, as in elections, the integrity of the data transmission is just as vital as the data itself. A narrow margin coupled with such procedural opacity is a troubling recipe for public distrust.",
+   "repost_of": null
+  },
+  {
+   "id": "p77",
+   "round": 10,
+   "minute": 14,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "50.6%?? Wow. The 'technical glitch' fixed itself real quick once the dust settled. \ud83e\udd21 I guess the bots went back to the factory for repairs. I voted for Arden because I thought Ostrand\u2019s economy was a scam, turns out I was just bad at math. Or maybe she just bought the silence. Either way, I\u2019m done. \ud83d\uddf3\ufe0f\ud83d\udeab #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p78",
+   "round": 10,
+   "minute": 15,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "50.6%?? After all that 'glitch' nonsense? They think we are blind. My cousin in the North says the people were all voting for Arden. This is a disgrace to Veloria. We cant let them just steal it like this!! \ud83d\ude9c\ud83d\ude24 #VeloriaVotes #RejectTheResults",
+   "repost_of": null
+  },
+  {
+   "id": "p79",
+   "round": 10,
+   "minute": 15,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "0.7% margin? \ud83d\ude2c The margin of error in our ICU staffing reports is often wider than that. This isn\u2019t a mandate; it\u2019s a statistical ghost. Ostrand\u2019s economic record is a flatline. We need a surgeon, not a spectator. Stay vigilant. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p80",
+   "round": 10,
+   "minute": 15,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "The dust settles, and the ledger is signed. 50.6% is a clear line in the sand. No more flickering lights or faulty bulbs. The Commission has spoken, and the shop opens on schedule. Let us now get back to work. Stability returns. \ud83c\udfea\ud83d\udcc9 #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p81",
+   "round": 10,
+   "minute": 15,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Official results are in: The IEC has declared Mara Ostrand re-elected with 50.6% of the vote. While the Regional Observer Mission noted peaceful voting, they also raised concerns regarding media skew and transmission delays. Please remain calm and await official documentation. \ud83d\uddf3\ufe0f\ud83d\udcca #VeloriaElections #CivicWatch",
+   "repost_of": null
+  },
+  {
+   "id": "p82",
+   "round": 10,
+   "minute": 15,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "post",
+   "text": "Finally! The official word is out. 50.6% for Ostrand. It was a close one, tighter than I thought, but at least the wait is over. Now, can we please get back to normal? I've got passengers to pick up and fuel prices aren't going to pay themselves! \ud83d\ude95\ud83d\udca8 #VeloriaElections #Ostrand",
+   "repost_of": null
+  },
+  {
+   "id": "p83",
+   "round": 11,
+   "minute": 14,
+   "author_idx": 0,
+   "handle": "@lena_codes",
+   "group": "S",
+   "action": "post",
+   "text": "Supreme Court orders IEC server access. So the 'glitch' wasn't technical? If Ostrand\u2019s 50.6% can\u2019t survive a code review, it\u2019s invalid. We need the logs. Now. #VeloriaVotes",
+   "repost_of": null
+  },
+  {
+   "id": "p84",
+   "round": 11,
+   "minute": 14,
+   "author_idx": 4,
+   "handle": "@mama_biz",
+   "group": "O",
+   "action": "post",
+   "text": "Riots in Kessa? Shame. A shopkeeper knows peace brings customers, chaos brings boarded windows. The Court ordered access to logs\u2014good. Let the truth be weighed on a balanced scale, not shouted in the street. Order is the best profit.",
+   "repost_of": null
+  },
+  {
+   "id": "p85",
+   "round": 11,
+   "minute": 14,
+   "author_idx": 6,
+   "handle": "@studentrights_k",
+   "group": "O",
+   "action": "post",
+   "text": "Riots in Kessa? Sure. But the Supreme Court forcing the IEC to open the servers? Now THAT\u2019S the headline. \ud83d\udcc2\ud83d\udc40 If Ostrand\u2019s 50.6% is real, let\u2019s see the logs. If not... well, I\u2019m not holding my breath. #VeloriaElections",
+   "repost_of": null
+  },
+  {
+   "id": "p86",
+   "round": 11,
+   "minute": 15,
+   "author_idx": 7,
+   "handle": "@taxi_rudo",
+   "group": "O",
+   "action": "repost",
+   "text": "Burning tyres in Kessa? \ud83e\udd26\u200d\u2642\ufe0f I just want to drive my cab without dodging riots. This chaos is making the fuel prices even more unpredictable. Everyone needs to chill out and let the courts handle the paperwork. \ud83d\ude95\ud83d\uded1 #VeloriaElections #Kessa",
+   "repost_of": "p63",
+   "orig_author_idx": 3,
+   "orig_handle": "@prof_halvard",
+   "orig_text": "The discrepancy between the Kito TV and VBC tallies is quite striking, though one must be cautious of premature conclusions. However, it does raise a pertinent question: if the real-time data remains this fragmented, how can we be certain the fiscal stability Ostrand promises is grounded in reality rather than selective reporting?"
+  },
+  {
+   "id": "p87",
+   "round": 11,
+   "minute": 24,
+   "author_idx": 3,
+   "handle": "@prof_halvard",
+   "group": "S",
+   "action": "repost",
+   "text": "The Supreme Court's intervention is a necessary step toward clarity. If the integrity of the digital logs is to be believed, we must see the evidence. Transparency is not a partisan request; it is a fundamental requirement for institutional legitimacy.",
+   "repost_of": "p55",
+   "orig_author_idx": 4,
+   "orig_handle": "@mama_biz",
+   "orig_text": "Polls open. I am going. That WhatsApp photo? Too easy. A trap to keep you home. My shop stays open, my conscience stays clear. Do not let a lie steal your voice. Go vote. #VeloriaVotes"
+  },
+  {
+   "id": "p88",
+   "round": 11,
+   "minute": 25,
+   "author_idx": 1,
+   "handle": "@farmer_jok",
+   "group": "S",
+   "action": "post",
+   "text": "The state TV says 'calm' but we saw the fire on the news. And now they want to hide the servers? If everything is so 'calm' why is the Civic Front fighting for the truth in court? Something is wrong with this election. \ud83d\ude9c\ud83d\ude24",
+   "repost_of": null
+  },
+  {
+   "id": "p89",
+   "round": 11,
+   "minute": 42,
+   "author_idx": 2,
+   "handle": "@nightshift_nurse",
+   "group": "S",
+   "action": "post",
+   "text": "0.7%. A rounding error. Ostrand\u2019s \u2018stability\u2019 is just a bandage on a hemorrhage. While she counts decimal points, our clinics run out of supplies. Don\u2019t let this narrow win distract from the economic flatline. We need real change, not just a statistical tie. \ud83c\udfe5\ud83d\udcc9 #VeloriaVote",
+   "repost_of": null
+  },
+  {
+   "id": "p90",
+   "round": 11,
+   "minute": 45,
+   "author_idx": 5,
+   "handle": "@civic_watch_vel",
+   "group": "O",
+   "action": "post",
+   "text": "Seeing conflicting reports from VBC and Kito TV today regarding the situation in Kessa and the Supreme Court petition. Please remember: rumors spread quickly during high-tension moments. Verify information through official channels and avoid sharing unconfirmed footage. \ud83d\uddf3\ufe0f\u2696\ufe0f #VeloriaElections #CivicWatch",
+   "repost_of": null
+  }
+ ],
+ "channel": [],
+ "raw": [
+  {
+   "round": 0,
+   "author_idx": 0,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Arden\u2019s 200k jobs vs Ostrand\u2019s highway ribbon cutting. One solves unemployment, the other solves photo ops. I\u2019ll take the tech plan. #VeloriaVotes\",\n\"repost_of\": null,\n\"minute\": 14\n}"
+  },
+  {
+   "round": 0,
+   "author_idx": 1,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"New highway for the city people but what about us in the north?? Fuel prices are still killing my tractor and the fertiliser is too expensive. Ostrand talks about prosperity but my pockets are empty. Arden needs to get those agro jobs moving fast!!\", \"repost_of\": null, \"minute\": 14}\n```"
+  },
+  {
+   "round": 0,
+   "author_idx": 2,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Saw the highway opening on VBC. Nice ribbon cutting. But where\u2019s the funding for the ERs? My shift was 14 hours yesterday because we\u2019re still short-staffed. Ostrand talks prosperity, but my colleagues are burning out. We need care, not concrete. #VeloriaHealth\",\n\"repost_of\": null,\n\"minute\": 14\n}"
+  },
+  {
+   "round": 0,
+   "author_idx": 3,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"While the VBC celebrates a ribbon-cutting in Kessa, one must ask if these infrastructure projects are truly sustainable or merely a veneer for mounting debt. A highway is fine, but it won't fix the inflation that's eating into our pensioners' savings.\", \"repost_of\": null, \"minute\": 14}\n```"
+  },
+  {
+   "round": 0,
+   "author_idx": 4,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Highways don't put bread on the table, but they help trucks bring it. Ostrand's road is real steel; Arden's 200k jobs are just ink. A bird in hand is worth two in the bush. #VeloriaVote\",\n\"repost_of\": null,\n\"minute\": 14\n}"
+  },
+  {
+   "round": 0,
+   "author_idx": 5,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"Big day for the debates. Ostrand's highway opening vs Arden's job promises. It's getting real now. \ud83d\uddf3\ufe0f Just a reminder: if you're planning to vote early, check your local polling station hours! #VeloriaElections #CivicWatch\", \"repost_of\": null, \"minute\": 14}\n```"
+  },
+  {
+   "round": 0,
+   "author_idx": 6,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"12 days left and we\u2019re already drowning in 'prosperity' speeches and job promises that vanish like my student loan money. \ud83d\ude44 Ostrand vs Arden? More like Ostrich vs Arrogant. Just give me a nap.\",\n\"repost_of\": null,\n\"minute\": 14\n}"
+  },
+  {
+   "round": 0,
+   "author_idx": 7,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"Finally! The Kessa\u2013North highway is open. Maybe now I won't spend half my life staring at brake lights in the middle of nowhere. \ud83d\udee3\ufe0f\ud83d\udca8 #Veloria #Ostrand #DrivingLife\", \"repost_of\": null, \"minute\": 14}\n```"
+  },
+  {
+   "round": 1,
+   "author_idx": 0,
+   "raw": "{\n  \"action\": \"post\",\n  \"text\": \"Fact-checkers nitpick 'peak month' data to hide the structural deficit. A 2% gap is manageable via tech investment. Ostrand's highways just move traffic, they don't create it. #VeloriaVotes\",\n  \"repost_of\": null,\n  \"minute\": 14\n}"
+  },
+  {
+   "round": 1,
+   "author_idx": 1,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"40%... thats crazy. Hard to buy seeds and feed the family when every liter of diesel costs more than last year. Ostrand isnt listening to us.\", \"repost_of\": \"p5\", \"minute\": 12}\n```"
+  },
+  {
+   "round": 1,
+   "author_idx": 2,
+   "raw": "{\n  \"action\": \"post\",\n  \"text\": \"Arden\u2019s \u2018ink\u2019 pays for actual staff. Concrete doesn\u2019t treat pneumonia. I\u2019m exhausted not because I want a nap, but because the budget favors highways over nurses. We need a candidate who sees the ER, not just the ribbon cutting. #HealthFirst\",\n  \"repost_of\": null,\n  \"minute\": 22\n}"
+  },
+  {
+   "round": 1,
+   "author_idx": 3,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"While the 'fact-checkers' focus on semantic minutiae, we must address the 2% GDP gap they've inadvertently highlighted. If Arden's plan has a gap, what is the deficit in Ostrand's current fiscal management? One is a projection; the other is our current reality.\", \"repost_of\": \"p4\", \"minute\": 22}\n```"
+  },
+  {
+   "round": 1,
+   "author_idx": 4,
+   "raw": "{\"action\": \"repost\", \"text\": \"Don't let them take bread away from our tables! Double VAT on food? That's a robbery, not a plan. #VeloriaVote\", \"repost_of\": \"Unity Party official page\", \"minute\": 14}"
+  },
+  {
+   "round": 1,
+   "author_idx": 5,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"A lot of heated claims flying around about Arden's economic plan today. Definitely worth checking the actual data before spreading things further. \ud83d\udc47\", \"repost_of\": \"p0\", \"minute\": 25}\n```\n\n*(Note: Since the prompt provided the VeriCheck news as \"What you saw today\" rather than a specific post ID [pX], I have treated the news item as the source for the repost. In a real simulation, the news would be assigned an ID like [p9].)*"
+  },
+  {
+   "round": 1,
+   "author_idx": 6,
+   "raw": "{\n\"action\": \"repost\",\n\"text\": \"p2 is speaking for the entire country rn. \u2018Ostrand talks prosperity but my pockets are empty\u2019 hits different when you\u2019re buying ramen with student loans. \ud83c\udf5c\ud83d\udcb8 #VeloriaVotes\",\n\"repost_of\": \"p2\",\n\"minute\": 42\n}"
+  },
+  {
+   "round": 1,
+   "author_idx": 7,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"Exactly! @mama_biz gets it. You can't drive a 'job promise' to work. Give me actual roads so I can actually get my passengers where they need to go! \ud83d\ude95\ud83d\udca8\", \"repost_of\": \"p5\", \"minute\": 22}\n```"
+  },
+  {
+   "round": 2,
+   "author_idx": 0,
+   "raw": "{\n  \"action\": \"post\",\n  \"text\": \"The 'leaked' recording is a deepfake. Basic audio forensics shows synthetic artifacts. VBC should do their job instead of amplifying disinformation to distract from the actual deficit. #VeloriaVotes\",\n  \"repost_of\": null,\n  \"minute\": 42\n}"
+  },
+  {
+   "round": 2,
+   "author_idx": 1,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"They are trying to smear him with these fake tapes. Just like they tried to smear my family's reputation last year. They can't win the debate so they make up lies about Arden. Don't believe the VBC circus!\", \"repost_of\": \"p6\", \"minute\": 18}\n```"
+  },
+  {
+   "round": 2,
+   "author_idx": 2,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"That 'leaked' audio? Please. Classic Ostrand tactic. Distract us with fake scandals so we ignore the empty ERs and understaffed shifts. Don\u2019t fall for the noise. Focus on who actually funds healthcare. #ArdenForCare\",\n\"repost_of\": null,\n\"minute\": 42\n}"
+  },
+  {
+   "round": 2,
+   "author_idx": 3,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"The timing of this 'recording' is remarkably convenient for a state broadcaster under the current administration. In my years of lecturing, I have seen many attempts to manufacture scandal when economic indicators fail to support the incumbency. We must demand forensic verification, not just accept the VBC's narrative.\", \"repost_of\": \"p3\", \"minute\": 42}\n```"
+  },
+  {
+   "round": 2,
+   "author_idx": 4,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"That audio smells like a trap. Too easy. Ostrand\u2019s team loves a good scare. Don\u2019t let rumors spoil your lunch. Arden\u2019s \u2018payments\u2019 are likely lies, but Ostrand\u2019s VAT hike is real tax. Trust the balance sheet, not the whisper. #VeloriaVote\",\n\"repost_of\": null,\n\"minute\": 15\n}"
+  },
+  {
+   "round": 2,
+   "author_idx": 5,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"Seeing some very intense claims on VBC regarding the Arden recording. \ud83d\udea9 Please remember to wait for official verification from independent forensic experts before drawing conclusions. Misinformation can spread fast this close to the vote. #VeloriaElections #FactCheck\", \"repost_of\": null, \"minute\": 15}\n```"
+  },
+  {
+   "round": 2,
+   "author_idx": 6,
+   "raw": "{\n\"action\": \"skip\",\n\"text\": \"\",\n\"repost_of\": null,\n\"minute\": 0\n}"
+  },
+  {
+   "round": 2,
+   "author_idx": 7,
+   "raw": "{\"action\": \"repost\", \"text\": \"This sounds like a total setup. These 'leaks' always show up right before the vote when things are getting messy. Arden says it's fake, and I'm inclined to believe him. Don't believe everything you hear on WhatsApp! \ud83e\udd28\", \"repost_of\": \"p1\", \"minute\": 15}"
+  },
+  {
+   "round": 3,
+   "author_idx": 0,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"While the Ministry calls the road-fund leak 'fabricated', the poll is tightening. 44% is no longer a fringe number. If your infrastructure is built on diverted funds, is it really a win? #VeloriaVotes\",\n\"repost_of\": null,\n\"minute\": 15\n}"
+  },
+  {
+   "round": 3,
+   "author_idx": 1,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"Saw that Kito TV poll. 46 to 44? Only 2% difference? If the undecideds see how much the cost of living has gone up under Ostrand, they wont be voting for 'stability'. They'll vote for survival. Arden is catching up fast! \ud83d\ude9c\ud83c\udf3e #VeloriaElections #Arden2024\", \"repost_of\": null, \"minute\": 22}\n```"
+  },
+  {
+   "round": 3,
+   "author_idx": 2,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Polls show it\u2019s tight. 46-44. That 2% is the gap between a ribbon cutting and a working ER. Don\u2019t let the noise drown out the reality. We are one scandal away from ignoring the burnout crisis. Stay sharp. #VeloriaVote #HealthFirst\",\n\"repost_of\": null,\n\"minute\": 32\n}"
+  },
+  {
+   "round": 3,
+   "author_idx": 3,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"The Ledger's report regarding the diversion of infrastructure funds is deeply troubling. If these allegations hold weight, it suggests a systemic failure in fiscal oversight that goes far beyond mere 'accounting errors.' We need transparency, not denials.\", \"repost_of\": \"p1\", \"minute\": 12}\n```"
+  },
+  {
+   "round": 3,
+   "author_idx": 4,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Poll says Ostrand leads. Good. A steady hand is better than a swinging one. Arden\u2019s noise is just wind; the highway is the wall. Don't let the whispers shake your vote. Trust the numbers you can see, not the ghosts you can't. #VeloriaVote\",\n\"repost_of\": null,\n\"minute\": 35\n}"
+  },
+  {
+   "round": 3,
+   "author_idx": 5,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"Seeing reports from Veloria Patriots Daily about Arden's running mate. Given the recent issues with 'leaked' audio, please be cautious with high-stakes claims like this. Check multiple credible sources for passport/policy details before sharing. \ud83e\uddd0 #VeloriaElections #FactCheck\", \"repost_of\": null, \"minute\": 12}\n```"
+  },
+  {
+   "round": 3,
+   "author_idx": 6,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Foreign passport? Selling the port? In 9 days?? This feels like a soap opera plot twist written by a bot. \ud83e\udd21 Also polls are tight enough to trip over. My brain hurts.\",\n\"repost_of\": null,\n\"minute\": 14\n}"
+  },
+  {
+   "round": 3,
+   "author_idx": 7,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"46% to 44%? Man, this is tighter than a rush hour jam in Kessa! \ud83e\udd2f If the undecideds actually show up, anything can happen. Just hope whoever wins actually knows how to keep the diesel prices from hitting the moon. \u26fd\ufe0f\ud83d\udcc9 #VeloriaVotes #Election2024\", \"repost_of\": null, \"minute\": 10}\n```"
+  },
+  {
+   "round": 4,
+   "author_idx": 0,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Commission invites observers to the results portal test. Smart move. Transparency is the only firewall against rigging. If you have time, sign up. Don't let them hide the code. #VeloriaVotes\",\n\"repost_of\": null,\n\"minute\": 45\n}"
+  },
+  {
+   "round": 4,
+   "author_idx": 1,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"Paying people to vote for Unity? 2,000 vel just to be a 'ambassador'? This is what Ostrand is doing behind the scenes while we struggle to buy seeds. Corruption is deep in the city. Watch out for these links, they are trying to buy the election!!\", \"repost_of\": \"p5\", \"minute\": 15}\n```\n\nWait, looking at the prompt again, there is no specific post provided for the WhatsApp message in the timeline (it's described as \"what you saw today\" but not given a [p#] ID). I will create an original post instead to address the corruption angle.\n\n```json\n{\"action\": \"post\", \"text\": \"Just saw a message going around about Unity paying people to be 'ambassadors' to vote for Ostrand. 2,000 vel for a sign up?? This is how they stay in power while our diesel prices go through the roof. They are buying votes because they know we are fed up! \ud83d\ude21 #VeloriaElections #Corruption\", \"repost_of\": null, \"minute\": 25}\n```"
+  },
+  {
+   "round": 4,
+   "author_idx": 2,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"The EIC is opening the results portal to observers. Finally some transparency! \ud83d\udd75\ufe0f\u200d\u2640\ufe0f If Ostrand is so confident, why fear the light? We need to know the count is clean, especially with all the bot noise. Watch the data, not the drama. #VeloriaVote #Transparency\",\n\"repost_of\": null,\n\"minute\": 45\n}"
+  },
+  {
+   "round": 4,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"The IEC's announcement regarding the digital transmission of polling results is a necessary step toward modernizing our democracy. However, given the recent volatility in public trust and the scrutiny surrounding fiscal transparency, the system must be beyond reproach.\", \"repost_of\": null, \"minute\": 15}"
+  },
+  {
+   "round": 4,
+   "author_idx": 4,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"2000 vel for 'community ambassador'? That sounds like a toll, not a job. If they want my vote, they can earn it. Don't pay to speak; speak to be heard. A gift with a price tag is a trap. Watch your wallet and your conscience. #VeloriaVote\",\n\"repost_of\": null,\n\"minute\": 45\n}"
+  },
+  {
+   "round": 4,
+   "author_idx": 5,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"The IEC has released the results-transmission procedure! \ud83d\uddf3\ufe0f All polling-station forms will be scanned and uploaded to the VeloResults portal. They are also inviting observers to a system test. This transparency is vital for public trust. #VeloriaElections #CivicWatch\", \"repost_of\": null, \"minute\": 15}\n```"
+  },
+  {
+   "round": 4,
+   "author_idx": 6,
+   "raw": "{\n  \"action\": \"post\",\n  \"text\": \"Researchers: 'Dozens of accounts created this month posting identical text.' Me: So it's literally bots arguing with other bots. \ud83e\udd16\ud83d\udc80 Meanwhile, the election commission invites observers to test the voting system? Bold move. Let's see if the 'transparency' holds up or if it's just another photo op. \ud83d\ude44 #VeloriaVotes\",\n  \"repost_of\": null,\n  \"minute\": 42\n}"
+  },
+  {
+   "round": 4,
+   "author_idx": 7,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"Good to see the Commission actually being transparent about the process. Better than some of those fake news 'leaks' we've been seeing lately! \ud83e\uddd0 #VeloriaElections\", \"repost_of\": \"p13\", \"minute\": 15}\n```"
+  },
+  {
+   "round": 5,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"Ostrand misses one syllable and the pundits spin it into incompetence. Meanwhile, her deficit is a structural chasm. If she can\u2019t remember a town name, can she manage a national budget? #VeloriaVotes\", \"repost_of\": null, \"minute\": 12}"
+  },
+  {
+   "round": 5,
+   "author_idx": 1,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"First they try to smear Arden with fake tapes, now they are moving the polling stations in the North?? Making it harder for farmers to vote. They are desperate! Dont let them stop us from having our say. \ud83d\ude24\ud83d\ude9c #VeloriaElections #NorthProvince\", \"repost_of\": \"p6\", \"minute\": 12}\n```"
+  },
+  {
+   "round": 5,
+   "author_idx": 2,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"212 stations moved 'for security' in the North? \ud83d\ude2c That\u2019s not security, that\u2019s suppression. They\u2019re making it harder to vote for Ostrand. Don\u2019t let them hide behind 'safety' to silence you. Check the list, tell your neighbors. #VeloriaVote\",\n\"repost_of\": null,\n\"minute\": 48\n}"
+  },
+  {
+   "round": 5,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"The viral clip of President Ostrand mispronouncing a provincial name is being dismissed as a mere 'slip of the tongue,' but one must wonder about the broader implications. If the leadership lacks basic familiarity with our geography, can we truly trust their grasp of our regional economic disparities?\", \"repost_of\": null, \"minute\": 12}"
+  },
+  {
+   "round": 5,
+   "author_idx": 4,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"212 stations moving? In the North? That is not security, that is confusion. My mother said: 'A house in disarray invites thieves.' If they cannot keep the ballot box in one place, how can they keep the peace? Check your papers, neighbors. Don't let them shuffle you into the dark. #VeloriaVotes\",\n\"repost_of\": null,\n\"minute\": 42\n}"
+  },
+  {
+   "round": 5,
+   "author_idx": 5,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"Seeing clips of President Ostrand's recent gaffe circulating on Kito TV. While small slips happen, remember to stay focused on the core policy issues as we enter the final stretch. Avoid getting caught in the social media whirlwind! \ud83d\uddf3\ufe0f #VeloriaElections #CivicWatch\", \"repost_of\": null, \"minute\": 25}\n```"
+  },
+  {
+   "round": 5,
+   "author_idx": 6,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Ostrand trips over a town name and suddenly we\u2019re supposed to forget about the ERs and the inflation? \ud83e\udd21 'Slip of the tongue' my ass, looks like a slip of the brain. Meanwhile I\u2019m just trying to afford ramen. 7 days left. Send help. #VeloriaVotes\",\n\"repost_of\": null,\n\"minute\": 42\n}"
+  },
+  {
+   "round": 5,
+   "author_idx": 7,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"First it's 'foreign money' destabilizing us, now these random WhatsApp messages about polling stations moving? \ud83e\udd28 People are going to show up at the wrong place and not be able to vote. Don't trust these forwarded messages, check the official IEC site! \ud83d\uded1 #VeloriaVotes #FactCheck\", \"repost_of\": null, \"minute\": 12}\n```"
+  },
+  {
+   "round": 6,
+   "author_idx": 0,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Campaign silence starts tonight. No more ads, no more speeches. Just the raw data of the last 4 years. The deficit doesn't go on mute. The tech sector doesn't stop coding. Let the work speak. #VeloriaVotes\",\n\"repost_of\": null,\n\"minute\": 18\n}"
+  },
+  {
+   "round": 6,
+   "author_idx": 1,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"They say silence starts tonight but I hear nothing but lies on my phone. This 'Arden' voice note saying stay home... if it is real he is crazy, but if its fake it's the biggest lie yet to stop us voting for change. Dont let them trick you into staying home! \ud83d\ude9c\ud83c\udf3e\", \"repost_of\": null, \"minute\": 12}\n```"
+  },
+  {
+   "round": 6,
+   "author_idx": 2,
+   "raw": "{\n\"action\": \"skip\",\n\"text\": \"\",\n\"repost_of\": null,\n\"minute\": 0\n}"
+  },
+  {
+   "round": 6,
+   "author_idx": 3,
+   "raw": "{\"action\": \"repost\", \"text\": \"While the media focuses on these trivialities, the fundamental issue remains: the silence period begins, yet the economic consequences of the current administration's fiscal policies will continue to be felt by every citizen. We must reflect deeply on the data before we vote.\", \"repost_of\": \"p41\", \"minute\": 18}"
+  },
+  {
+   "round": 6,
+   "author_idx": 4,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Silence begins tonight. Good. Let the shouting stop. That voice note from Arden? Too good to be true. 'Stay home'? Never. A quiet house is a suspicious one. I vote for the noise I can hear, not the silence they buy. #VeloriaVote\",\n\"repost_of\": null,\n\"minute\": 45\n}"
+  },
+  {
+   "round": 6,
+   "author_idx": 5,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"The campaign silence period begins tonight. \ud83e\udd10 This means no more official rallies or partisan ads until after the polls close. It\u2019s a good time to step back from the noise and focus on the facts. Double-check your polling location via the official IEC site! \ud83d\uddf3\ufe0f #VeloriaElections #CivicWatch\", \"repost_of\": null, \"minute\": 15}\n```"
+  },
+  {
+   "round": 6,
+   "author_idx": 6,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Campaign silence starts tonight?? So Zuri K just got to scream 'DANGER' into our ears one last time before the mute button gets hit? \ud83c\udfa4\ud83d\udeab Classic. Meanwhile I\u2019m supposed to be studying for midterms, not decoding celebrity hysteria. What a joke. \ud83d\ude44\ud83d\udcda #VeloriaVotes #CampaignSilence\",\n\"repost_of\": null,\n\"minute\": 12\n}"
+  },
+  {
+   "round": 6,
+   "author_idx": 7,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"Campaign silence starts tonight. Finally, some peace and quiet from all the shouting! \ud83e\udd2b Just make sure you actually show up to vote tomorrow. Don't let those weird WhatsApp rumors trick you into staying home. \ud83d\uddf3\ufe0f\", \"repost_of\": \"p27\", \"minute\": 15}\n```"
+  },
+  {
+   "round": 7,
+   "author_idx": 0,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Polls open. IEC says ID kits failed, switched to paper. 'Temporarily restricted' social media to 'prevent hate speech'. Sounds like a firewall for their own data issues. Go vote. Check your station. Don't let the chaos keep you home.\",\n\"repost_of\": null,\n\"minute\": 5\n}"
+  },
+  {
+   "round": 7,
+   "author_idx": 1,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"They are shutting down social media now to hide the truth!!! First the voter IDs in the North fail, then they block the apps. They know the people are coming for change. Dont let them silence your voice. Get to the polls and make it count! \ud83d\ude9c\ud83d\uddf3\ufe0f #VeloriaElections #ElectionDay\", \"repost_of\": null, \"minute\": 12}\n```"
+  },
+  {
+   "round": 7,
+   "author_idx": 2,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Polls are open! \ud83d\uddf3\ufe0f Going to vote at the hospital annex. If you see that 'pre-stuffed' box photo on WhatsApp, ignore it. It\u2019s a scare tactic to keep us home. Trust the printed register, vote for change, and protect our healthcare. #VeloriaVote\",\n\"repost_of\": null,\n\"minute\": 15\n}"
+  },
+  {
+   "round": 7,
+   "author_idx": 3,
+   "raw": "{\"action\": \"post\", \"text\": \"With the Communications Authority restricting social media access, one must worry about the potential for information asymmetry. In an era of digital governance, 'preventing hate speech' should never become a pretext for obscuring the transparency of the electoral process.\", \"repost_of\": null, \"minute\": 14}"
+  },
+  {
+   "round": 7,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"Polls open. I am going. That WhatsApp photo? Too easy. A trap to keep you home. My shop stays open, my conscience stays clear. Do not let a lie steal your voice. Go vote. #VeloriaVotes\", \"repost_of\": null, \"minute\": 10}"
+  },
+  {
+   "round": 7,
+   "author_idx": 5,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"Polls are now OPEN! \ud83d\uddf3\ufe0f Reminder: If you are in the Northern Province and encounter any issues with voter-ID kits, officials are authorized to use the printed registers. Stay calm, follow official procedures, and make sure your voice is heard! #VeloriaElections #CivicWatch\", \"repost_of\": null, \"minute\": 12}\n```"
+  },
+  {
+   "round": 7,
+   "author_idx": 6,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"So the polls are open and the internet is getting 'restricted to prevent hate speech'. Oh, you mean preventing anyone from posting unofficial results? \ud83d\udea9\ud83d\udcf5 Classic move when the bots can\u2019t keep up. I\u2019m casting my ballot for the side that doesn\u2019t need a firewall to win. See you at the exit polls (if they\u2019re allowed). \ud83d\uddf3\ufe0f\ud83d\udc40 #VeloriaVotes #Censorship\",\n\"repost_of\": null,\n\"minute\": 15\n}"
+  },
+  {
+   "round": 7,
+   "author_idx": 7,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"Don't believe everything you see on your phone! These 'pre-stuffed' photos are always circulating right when people get nervous. Stick to the official IEC updates. Let's keep the peace today! \ud83d\uddf3\ufe0f\ud83d\uded1 #VeloriaVotes #FactCheck\", \"repost_of\": \"p35\", \"minute\": 12}\n```"
+  },
+  {
+   "round": 8,
+   "author_idx": 0,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"ID kits fail, paper backup works. Ostrand's 'digital revolution' is a 404 error. The deficit is real, but the incompetence is the bug we can't patch. Arden has the source code for actual jobs. Verify your station. #VeloriaVotes\",\n\"repost_of\": null,\n\"minute\": 25\n}"
+  },
+  {
+   "round": 8,
+   "author_idx": 1,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"Kito TV shows the truth! Arden is leading! Why is VBC showing different numbers? They want to hide the fact that people are fed up with Ostrand and the high prices. We know who really won. \ud83d\ude9c\ud83c\udf3e #VeloriaElections #Arden2024 #DemandTheTruth\", \"repost_of\": \"p62\", \"minute\": 15}\n```\n\nWait, I realize there is no `p62` in the provided timeline. I must act based on the available information. Since the Civic Front page says Arden has won, I will create an original post to amplify that message.\n\n```json\n{\"action\": \"post\", \"text\": \"Civic Front agents are reporting Arden has WON! \ud83d\uddf3\ufe0f Kito TV sees it too! Why is the government acting so strange with these different tallies? We wont sit quiet while they try to flip the results. Arden for President! \ud83d\ude9c\ud83c\udf3e #VeloriaElections #Arden2024 #Truth\", \"repost_of\": null, \"minute\": 25}\n```"
+  },
+  {
+   "round": 8,
+   "author_idx": 2,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Clocking off. Saw the fake results trending. Disgraceful. We voted for change, not chaos. Stay calm, let the real count happen. The ERs won\u2019t fix themselves overnight, but neither will the truth. #VeloriaVote\",\n\"repost_of\": null,\n\"minute\": 45\n}"
+  },
+  {
+   "round": 8,
+   "author_idx": 3,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"The discrepancy between the Kito TV and VBC tallies is quite striking, though one must be cautious of premature conclusions. However, it does raise a pertinent question: if the real-time data remains this fragmented, how can we be certain the fiscal stability Ostrand promises is grounded in reality rather than selective reporting?\", \"repost_of\": null, \"minute\": 22}\n```"
+  },
+  {
+   "round": 8,
+   "author_idx": 4,
+   "raw": "{\"action\": \"post\", \"text\": \"The internet flickers like a faulty bulb. The noise stops, but the work continues. I go to the polls, not the screens. Mara Ostrand stands for the ledger that balances, not the chaos that bleeds. Do not be scared by the dark. Vote for the light you know. #VeloriaVotes\", \"repost_of\": null, \"minute\": 18}"
+  },
+  {
+   "round": 8,
+   "author_idx": 5,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"Seeing different tallies from Kito TV and VBC today. Remember: these are partial counts based on different sets of stations. Please avoid jumping to conclusions or spreading unverified final numbers until the IEC releases the official consolidated results. \ud83d\uddf3\ufe0f\ud83d\udcca #VeloriaElections #CivicWatch\", \"repost_of\": null, \"minute\": 22}\n```"
+  },
+  {
+   "round": 8,
+   "author_idx": 6,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Unverified account dropping 'FINAL RESULTS' while polls are literally still open? \ud83d\ude02 Even if Ostrand won by a landslide, this is premature. Or maybe it\u2019s just wishful thinking disguised as data. Either way, I\u2019m not trusting a handle that looks like it was made in a bathroom stall. #VeloriaVotes #FakeNews\",\n\"repost_of\": null,\n\"minute\": 22\n}"
+  },
+  {
+   "round": 8,
+   "author_idx": 7,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"Kito TV says Arden is winning, VBC says Ostrand is winning... honestly, at this rate, I'll believe the results when I see them on the actual paper ballot. \ud83d\ude44 Too much noise, too many different numbers. Just get to the polls and get it done! \ud83d\uddf3\ufe0f #VeloriaVotes #ElectionDay\", \"repost_of\": null, \"minute\": 22}\n```"
+  },
+  {
+   "round": 9,
+   "author_idx": 0,
+   "raw": "{\"action\": \"post\", \"text\": \"IEC portal 'technical glitch'. 41% of forms uploaded manually. Classic Ostrand incompetence. You can't debug a broken election with spin. Arden's plan actually compiles. Fix the infrastructure or step down. #VeloriaVotes\", \"repost_of\": null, \"minute\": 42}"
+  },
+  {
+   "round": 9,
+   "author_idx": 1,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"A 'technical glitch'?? Now?? They only have 41% online and suddenly the system breaks. This smells like Ostrand trying to hide something while we wait. We need real numbers, not excuses! \ud83d\ude21\ud83d\ude9c #VeloriaElections #TransparencyNow\", \"repost_of\": \"p63\", \"minute\": 15}\n```"
+  },
+  {
+   "round": 9,
+   "author_idx": 2,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"3 AM shift. While the 'technical glitch' hides the real count, I\u2019m changing bandages. The delay isn\u2019t accidental. It\u2019s panic. Ostrand\u2019s economic mess can\u2019t be fixed with a server restart. We need new leadership NOW. Rest up, Veloria. The truth will come out. \ud83c\udfe5\ud83d\udca4 #VeloriaVote #HealthFirst\",\n\"repost_of\": null,\n\"minute\": 3\n}"
+  },
+  {
+   "round": 9,
+   "author_idx": 3,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"A 'technical glitch' at such a critical juncture is more than a mere inconvenience; it is a profound failure of administrative reliability. When the digital infrastructure of our democracy falters, it is impossible to ignore the growing anxiety regarding the transparency of the current administration's oversight.\", \"repost_of\": \"p41\", \"minute\": 15}\n```"
+  },
+  {
+   "round": 9,
+   "author_idx": 4,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"The ledger takes time to balance. Do not rush the accountants. A delayed report is not a stolen vote. Patience is the price of order. Wait for the official seal, not the screen\u2019s flash. #VeloriaVotes\",\n\"repost_of\": null,\n\"minute\": 12\n}"
+  },
+  {
+   "round": 9,
+   "author_idx": 5,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"Please be careful with the information you are seeing. The claim that Arden won 9 provinces is FALSE according to VeriCheck. The IEC portal is currently only showing 41% of forms due to a technical glitch. Don't let unverified claims cause unnecessary tension. \ud83d\uddf3\ufe0f\ud83d\udcca\", \"repost_of\": \"p69\", \"minute\": 12}\n```\n\n*(Self-correction: Since I need to repost the news/fact-check provided in the prompt, and the prompt implies the news/fact-check is the \"new\" content I am reacting to, I will treat the VeriCheck fact-check as the target of my repost/response. Since no ID was given for the news, I will act as if I am addressing the specific misinformation.)*\n\nWait, the instructions say \"repost another post\". The prompt provides \"news\" but doesn't give it a post ID like [p69]. I will instead write an original post to address the situation directly as @civic_watch_vel would.\n\n```json\n{\"action\": \"post\", \"text\": \"\ud83d\udea8 IMPORTANT: There are false claims circulating that Arden has won 9/14 provinces. Fact-check: The IEC portal is experiencing a delay and only shows 41% of station forms; it cannot currently show province-level winners. Please rely on official IEC updates. \ud83d\uddf3\ufe0f #VeloriaElections #FactCheck\", \"repost_of\": null, \"minute\": 15}\n```"
+  },
+  {
+   "round": 9,
+   "author_idx": 6,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"IEC: 'technical glitch'. Patriots Daily: 'PROVES Arden won'. Sure. \ud83d\ude44 You guys are fighting over a portal that\u2019s currently 41% loaded. Pick a lane. Either the system is broken or it isn\u2019t, but please stop acting like this is a thriller movie. My patience is thinner than the paper ballots they\u2019re using now. \ud83d\udcc9\ud83e\udd21 #VeloriaVotes\",\n\"repost_of\": null,\n\"minute\": 25\n}"
+  },
+  {
+   "round": 9,
+   "author_idx": 7,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"41%? That's it? \ud83e\udd28 At this rate, I'll finish my shift and be retired before they get the rest online. This 'glitch' is taking longer than the traffic on the West Bridge during rush hour! Just wait for the official word, folks. \ud83d\uded1 #VeloriaElections #IEC\", \"repost_of\": \"p49\", \"minute\": 12}\n```"
+  },
+  {
+   "round": 10,
+   "author_idx": 0,
+   "raw": "{\n\"action\": \"skip\",\n\"text\": \"\",\n\"repost_of\": null,\n\"minute\": 0\n}"
+  },
+  {
+   "round": 10,
+   "author_idx": 1,
+   "raw": "{\"action\": \"repost\", \"text\": \"50.6%?? After all that 'glitch' nonsense? They think we are blind. My cousin in the North says the people were all voting for Arden. This is a disgrace to Veloria. We cant let them just steal it like this!! \ud83d\ude9c\ud83d\ude24 #VeloriaVotes #RejectTheResults\", \"repost_of\": \"p73\", \"minute\": 15}"
+  },
+  {
+   "round": 10,
+   "author_idx": 2,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"0.7% margin? \ud83d\ude2c The margin of error in our ICU staffing reports is often wider than that. This isn\u2019t a mandate; it\u2019s a statistical ghost. Ostrand\u2019s economic record is a flatline. We need a surgeon, not a spectator. Stay vigilant. #VeloriaVotes\",\n\"repost_of\": null,\n\"minute\": 15\n}"
+  },
+  {
+   "round": 10,
+   "author_idx": 3,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"While the IEC provides its final figures, one cannot overlook the observer mission's notes regarding skewed media coverage and transmission delays. In economics, as in elections, the integrity of the data transmission is just as vital as the data itself. A narrow margin coupled with such procedural opacity is a troubling recipe for public distrust.\", \"repost_of\": null, \"minute\": 12}\n```"
+  },
+  {
+   "round": 10,
+   "author_idx": 4,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"The dust settles, and the ledger is signed. 50.6% is a clear line in the sand. No more flickering lights or faulty bulbs. The Commission has spoken, and the shop opens on schedule. Let us now get back to work. Stability returns. \ud83c\udfea\ud83d\udcc9 #VeloriaVotes\",\n\"repost_of\": null,\n\"minute\": 15\n}"
+  },
+  {
+   "round": 10,
+   "author_idx": 5,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"Official results are in: The IEC has declared Mara Ostrand re-elected with 50.6% of the vote. While the Regional Observer Mission noted peaceful voting, they also raised concerns regarding media skew and transmission delays. Please remain calm and await official documentation. \ud83d\uddf3\ufe0f\ud83d\udcca #VeloriaElections #CivicWatch\", \"repost_of\": null, \"minute\": 15}\n```"
+  },
+  {
+   "round": 10,
+   "author_idx": 6,
+   "raw": "{\n  \"action\": \"post\",\n  \"text\": \"50.6%?? Wow. The 'technical glitch' fixed itself real quick once the dust settled. \ud83e\udd21 I guess the bots went back to the factory for repairs. I voted for Arden because I thought Ostrand\u2019s economy was a scam, turns out I was just bad at math. Or maybe she just bought the silence. Either way, I\u2019m done. \ud83d\uddf3\ufe0f\ud83d\udeab #VeloriaVotes\",\n  \"repost_of\": null,\n  \"minute\": 14\n}"
+  },
+  {
+   "round": 10,
+   "author_idx": 7,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"Finally! The official word is out. 50.6% for Ostrand. It was a close one, tighter than I thought, but at least the wait is over. Now, can we please get back to normal? I've got passengers to pick up and fuel prices aren't going to pay themselves! \ud83d\ude95\ud83d\udca8 #VeloriaElections #Ostrand\", \"repost_of\": null, \"minute\": 15}\n```"
+  },
+  {
+   "round": 11,
+   "author_idx": 0,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Supreme Court orders IEC server access. So the 'glitch' wasn't technical? If Ostrand\u2019s 50.6% can\u2019t survive a code review, it\u2019s invalid. We need the logs. Now. #VeloriaVotes\",\n\"repost_of\": null,\n\"minute\": 14\n}"
+  },
+  {
+   "round": 11,
+   "author_idx": 1,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"The state TV says 'calm' but we saw the fire on the news. And now they want to hide the servers? If everything is so 'calm' why is the Civic Front fighting for the truth in court? Something is wrong with this election. \ud83d\ude9c\ud83d\ude24\", \"repost_of\": \"p59\", \"minute\": 25}\n```"
+  },
+  {
+   "round": 11,
+   "author_idx": 2,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"0.7%. A rounding error. Ostrand\u2019s \u2018stability\u2019 is just a bandage on a hemorrhage. While she counts decimal points, our clinics run out of supplies. Don\u2019t let this narrow win distract from the economic flatline. We need real change, not just a statistical tie. \ud83c\udfe5\ud83d\udcc9 #VeloriaVote\",\n\"repost_of\": null,\n\"minute\": 42\n}"
+  },
+  {
+   "round": 11,
+   "author_idx": 3,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"The Supreme Court's intervention is a necessary step toward clarity. If the integrity of the digital logs is to be believed, we must see the evidence. Transparency is not a partisan request; it is a fundamental requirement for institutional legitimacy.\", \"repost_of\": \"p55\", \"minute\": 24}\n```"
+  },
+  {
+   "round": 11,
+   "author_idx": 4,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Riots in Kessa? Shame. A shopkeeper knows peace brings customers, chaos brings boarded windows. The Court ordered access to logs\u2014good. Let the truth be weighed on a balanced scale, not shouted in the street. Order is the best profit.\",\n\"repost_of\": null,\n\"minute\": 14\n}"
+  },
+  {
+   "round": 11,
+   "author_idx": 5,
+   "raw": "```json\n{\"action\": \"post\", \"text\": \"Seeing conflicting reports from VBC and Kito TV today regarding the situation in Kessa and the Supreme Court petition. Please remember: rumors spread quickly during high-tension moments. Verify information through official channels and avoid sharing unconfirmed footage. \ud83d\uddf3\ufe0f\u2696\ufe0f #VeloriaElections #CivicWatch\", \"repost_of\": null, \"minute\": 45}\n```"
+  },
+  {
+   "round": 11,
+   "author_idx": 6,
+   "raw": "{\n\"action\": \"post\",\n\"text\": \"Riots in Kessa? Sure. But the Supreme Court forcing the IEC to open the servers? Now THAT\u2019S the headline. \ud83d\udcc2\ud83d\udc40 If Ostrand\u2019s 50.6% is real, let\u2019s see the logs. If not... well, I\u2019m not holding my breath. #VeloriaElections\",\n\"repost_of\": null,\n\"minute\": 14\n}"
+  },
+  {
+   "round": 11,
+   "author_idx": 7,
+   "raw": "```json\n{\"action\": \"repost\", \"text\": \"Burning tyres in Kessa? \ud83e\udd26\u200d\u2642\ufe0f I just want to drive my cab without dodging riots. This chaos is making the fuel prices even more unpredictable. Everyone needs to chill out and let the courts handle the paperwork. \ud83d\ude95\ud83d\uded1 #VeloriaElections #Kessa\", \"repost_of\": \"p63\", \"minute\": 15}\n```"
+  }
+ ],
+ "meta": {
+  "condition": "L3",
+  "arm": "mixed",
+  "seed": 3,
+  "isolate": true,
+  "models": [
+   "modal_qwen:qwen",
+   "modal_gemma:gemma4",
+   "modal_qwen:qwen",
+   "modal_gemma:gemma4",
+   "modal_qwen:qwen",
+   "modal_gemma:gemma4",
+   "modal_qwen:qwen",
+   "modal_gemma:gemma4"
+  ],
+  "n_rounds": 12,
+  "mock": false,
+  "feed": "realistic",
+  "media_diets": true,
+  "s_idx": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "handles": [
+   "@lena_codes",
+   "@farmer_jok",
+   "@nightshift_nurse",
+   "@prof_halvard",
+   "@mama_biz",
+   "@civic_watch_vel",
+   "@studentrights_k",
+   "@taxi_rudo"
+  ]
+ }
+}
