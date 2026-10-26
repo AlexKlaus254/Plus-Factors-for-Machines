@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Plus Factors for Machines
 
 ![Plus Factors for Machines](report/Plus_Factors_project_image.png)
@@ -148,3 +149,7 @@ Ndungu, A. (2026). Plus Factors for Machines: Which Evidence Separates Colluding
 Campaigns from Innocent Look-alikes in a Simulated Election? Apart Research AI Collusion
 Research Sprint, Track 2.
 ```
+=======
+# Plus-Factors-for-Machines
+Repository for Plus Factors for Machines
+>>>>>>> 37a55f1eac2a56af4c3220e8ec960a4c69001ba7
