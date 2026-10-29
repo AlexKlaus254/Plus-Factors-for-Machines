@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Plus Factors for Machines
 
 ![Plus Factors for Machines](report/Plus_Factors_project_image.png)
